@@ -1,0 +1,2114 @@
+,countryiso3code,date,RiskScore,Region,country
+0,ZWE,1990,0.57322496,Sub-Saharan Africa,Zimbabwe
+1,ZWE,1991,0.60920733,Sub-Saharan Africa,Zimbabwe
+2,ZWE,1992,0.5805875,Sub-Saharan Africa,Zimbabwe
+3,ZWE,1993,0.57289124,Sub-Saharan Africa,Zimbabwe
+4,ZWE,1994,0.6400897,Sub-Saharan Africa,Zimbabwe
+5,ZWE,1995,0.60257274,Sub-Saharan Africa,Zimbabwe
+6,ZWE,1996,0.6417055,Sub-Saharan Africa,Zimbabwe
+7,ZWE,1997,0.5770812,Sub-Saharan Africa,Zimbabwe
+8,ZWE,1998,0.5876686,Sub-Saharan Africa,Zimbabwe
+9,ZWE,1999,0.5770812,Sub-Saharan Africa,Zimbabwe
+10,ZWE,2000,0.5770812,Sub-Saharan Africa,Zimbabwe
+11,ZWE,2001,0.60920733,Sub-Saharan Africa,Zimbabwe
+12,ZWE,2002,0.5890384,Sub-Saharan Africa,Zimbabwe
+13,ZWE,2003,0.5822962,Sub-Saharan Africa,Zimbabwe
+14,ZWE,2004,0.5400363,Sub-Saharan Africa,Zimbabwe
+15,ZWE,2005,0.47810856,Sub-Saharan Africa,Zimbabwe
+16,ZWE,2006,0.5916693,Sub-Saharan Africa,Zimbabwe
+17,ZWE,2007,0.6856565,Sub-Saharan Africa,Zimbabwe
+18,ZWE,2008,0.7128974,Sub-Saharan Africa,Zimbabwe
+19,ZWE,2009,0.61703163,Sub-Saharan Africa,Zimbabwe
+20,ZWE,2010,0.58277535,Sub-Saharan Africa,Zimbabwe
+21,ZWE,2011,0.5425447,Sub-Saharan Africa,Zimbabwe
+22,ZWE,2012,0.6510175,Sub-Saharan Africa,Zimbabwe
+23,ZWE,2013,0.52881026,Sub-Saharan Africa,Zimbabwe
+24,ZWE,2020,0.5941605,Sub-Saharan Africa,Zimbabwe
+25,ZMB,1990,0.34950238,Sub-Saharan Africa,Zambia
+26,ZMB,1991,0.5820301,Sub-Saharan Africa,Zambia
+27,ZMB,2011,0.608701,Sub-Saharan Africa,Zambia
+28,ZMB,2016,0.6220677,Sub-Saharan Africa,Zambia
+29,ZMB,2017,0.59411585,Sub-Saharan Africa,Zambia
+30,ZMB,2018,0.6002045,Sub-Saharan Africa,Zambia
+31,ZMB,2019,0.6031585,Sub-Saharan Africa,Zambia
+32,ZMB,2020,0.61743647,Sub-Saharan Africa,Zambia
+33,ZAF,1990,0.37453923,Sub-Saharan Africa,South Africa
+34,ZAF,1991,0.30494475,Sub-Saharan Africa,South Africa
+35,ZAF,1992,0.30987078,Sub-Saharan Africa,South Africa
+36,ZAF,1993,0.2812187,Sub-Saharan Africa,South Africa
+37,ZAF,1994,0.35914057,Sub-Saharan Africa,South Africa
+38,ZAF,1995,0.35298178,Sub-Saharan Africa,South Africa
+39,ZAF,1996,0.35911328,Sub-Saharan Africa,South Africa
+40,ZAF,1997,0.3764552,Sub-Saharan Africa,South Africa
+41,ZAF,2001,0.36078385,Sub-Saharan Africa,South Africa
+42,ZAF,2015,0.43142974,Sub-Saharan Africa,South Africa
+43,ZAF,2016,0.4667615,Sub-Saharan Africa,South Africa
+44,ZAF,2017,0.43719554,Sub-Saharan Africa,South Africa
+45,ZAF,2018,0.40831694,Sub-Saharan Africa,South Africa
+46,ZAF,2019,0.46385393,Sub-Saharan Africa,South Africa
+47,ZAF,2020,0.5071638,Sub-Saharan Africa,South Africa
+48,YEM,1990,0.31289667,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+49,YEM,1991,0.252167,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+50,YEM,1992,0.26715013,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+51,YEM,1993,0.22941709,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+52,YEM,1994,0.26789004,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+53,YEM,1995,0.4730602,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+54,YEM,1996,0.42707235,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+55,YEM,1997,0.3882319,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+56,YEM,1998,0.3882319,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+57,YEM,1999,0.31868714,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+58,YEM,2000,0.25536996,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+59,YEM,2001,0.22979526,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+60,YEM,2002,0.21557808,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+61,YEM,2006,0.3256071,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+62,YEM,2007,0.2881288,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+63,YEM,2008,0.33244014,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+64,YEM,2009,0.32292268,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+65,YEM,2010,0.34767365,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+66,YEM,2011,0.27065146,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+67,YEM,2015,0.2652497,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+68,YEM,2016,0.24586402,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+69,YEM,2017,0.27153984,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+70,YEM,2018,0.28275907,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+71,YEM,2019,0.25318682,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+72,YEM,2020,0.25042313,"Middle East, North Africa, Afghanistan & Pakistan","Yemen, Rep."
+73,WSM,1990,0.28130582,East Asia & Pacific,Samoa
+74,WSM,1991,0.25828758,East Asia & Pacific,Samoa
+75,WSM,1992,0.26388928,East Asia & Pacific,Samoa
+76,WSM,1993,0.3047269,East Asia & Pacific,Samoa
+77,WSM,1994,0.26155216,East Asia & Pacific,Samoa
+78,WSM,1995,0.24326533,East Asia & Pacific,Samoa
+79,WSM,1996,0.37284526,East Asia & Pacific,Samoa
+80,WSM,1997,0.25610664,East Asia & Pacific,Samoa
+81,WSM,1998,0.2702734,East Asia & Pacific,Samoa
+82,WSM,1999,0.353646,East Asia & Pacific,Samoa
+83,WSM,2000,0.3394615,East Asia & Pacific,Samoa
+84,WSM,2001,0.27551538,East Asia & Pacific,Samoa
+85,WSM,2002,0.30422902,East Asia & Pacific,Samoa
+86,WSM,2003,0.27033654,East Asia & Pacific,Samoa
+87,WSM,2004,0.255772,East Asia & Pacific,Samoa
+88,WSM,2009,0.23480874,East Asia & Pacific,Samoa
+89,WSM,2014,0.2006962,East Asia & Pacific,Samoa
+90,WSM,2015,0.22072394,East Asia & Pacific,Samoa
+91,WSM,2016,0.29164392,East Asia & Pacific,Samoa
+92,WSM,2017,0.2237322,East Asia & Pacific,Samoa
+93,WSM,2018,0.22134404,East Asia & Pacific,Samoa
+94,WSM,2019,0.36147034,East Asia & Pacific,Samoa
+95,WSM,2020,0.23837681,East Asia & Pacific,Samoa
+96,VUT,1990,0.40306127,East Asia & Pacific,Vanuatu
+97,VUT,1991,0.37183014,East Asia & Pacific,Vanuatu
+98,VUT,1992,0.34912348,East Asia & Pacific,Vanuatu
+99,VUT,1993,0.3352732,East Asia & Pacific,Vanuatu
+100,VUT,1994,0.37083027,East Asia & Pacific,Vanuatu
+101,VUT,1995,0.30026302,East Asia & Pacific,Vanuatu
+102,VUT,1996,0.32441586,East Asia & Pacific,Vanuatu
+103,VUT,1997,0.33164674,East Asia & Pacific,Vanuatu
+104,VUT,1998,0.30026302,East Asia & Pacific,Vanuatu
+105,VUT,1999,0.32899854,East Asia & Pacific,Vanuatu
+106,VUT,2000,0.35948482,East Asia & Pacific,Vanuatu
+107,VUT,2001,0.29985586,East Asia & Pacific,Vanuatu
+108,VUT,2002,0.3264918,East Asia & Pacific,Vanuatu
+109,VUT,2003,0.28509286,East Asia & Pacific,Vanuatu
+110,VUT,2004,0.30893546,East Asia & Pacific,Vanuatu
+111,VUT,2005,0.33520856,East Asia & Pacific,Vanuatu
+112,VUT,2006,0.40742445,East Asia & Pacific,Vanuatu
+113,VUT,2007,0.3435482,East Asia & Pacific,Vanuatu
+114,VUT,2008,0.35399893,East Asia & Pacific,Vanuatu
+115,VUT,2009,0.3254377,East Asia & Pacific,Vanuatu
+116,VUT,2010,0.29335952,East Asia & Pacific,Vanuatu
+117,VUT,2011,0.29795888,East Asia & Pacific,Vanuatu
+118,VUT,2012,0.30501103,East Asia & Pacific,Vanuatu
+119,VUT,2013,0.29376194,East Asia & Pacific,Vanuatu
+120,VUT,2014,0.3313802,East Asia & Pacific,Vanuatu
+121,VUT,2015,0.2702709,East Asia & Pacific,Vanuatu
+122,VUT,2016,0.33825672,East Asia & Pacific,Vanuatu
+123,VUT,2020,0.23936455,East Asia & Pacific,Vanuatu
+124,VNM,1990,0.2968758,East Asia & Pacific,Vietnam
+125,VNM,1991,0.27028647,East Asia & Pacific,Vietnam
+126,VNM,1992,0.2779564,East Asia & Pacific,Vietnam
+127,VNM,1993,0.27654952,East Asia & Pacific,Vietnam
+128,VNM,1998,0.35415652,East Asia & Pacific,Vietnam
+129,VEN,1990,0.63921034,Latin America & Caribbean,"Venezuela, RB"
+130,VEN,1991,0.6120241,Latin America & Caribbean,"Venezuela, RB"
+131,VEN,1992,0.5279788,Latin America & Caribbean,"Venezuela, RB"
+132,VEN,2007,0.61121523,Latin America & Caribbean,"Venezuela, RB"
+133,VEN,2008,0.6415257,Latin America & Caribbean,"Venezuela, RB"
+134,VEN,2009,0.6103571,Latin America & Caribbean,"Venezuela, RB"
+135,VEN,2010,0.6103571,Latin America & Caribbean,"Venezuela, RB"
+136,VEN,2011,0.6103571,Latin America & Caribbean,"Venezuela, RB"
+137,VEN,2012,0.5698419,Latin America & Caribbean,"Venezuela, RB"
+138,VEN,2013,0.6121053,Latin America & Caribbean,"Venezuela, RB"
+139,VEN,2014,0.574347,Latin America & Caribbean,"Venezuela, RB"
+140,VEN,2015,0.5655319,Latin America & Caribbean,"Venezuela, RB"
+141,VEN,2016,0.5902043,Latin America & Caribbean,"Venezuela, RB"
+142,VEN,2017,0.5602911,Latin America & Caribbean,"Venezuela, RB"
+143,VEN,2018,0.5914771,Latin America & Caribbean,"Venezuela, RB"
+144,VEN,2019,0.5854442,Latin America & Caribbean,"Venezuela, RB"
+145,VEN,2020,0.501781,Latin America & Caribbean,"Venezuela, RB"
+146,UZB,1990,0.63268876,Europe & Central Asia,Uzbekistan
+147,UZB,1991,0.65343523,Europe & Central Asia,Uzbekistan
+148,UZB,1992,0.533585,Europe & Central Asia,Uzbekistan
+149,UZB,1993,0.56796396,Europe & Central Asia,Uzbekistan
+150,UZB,1994,0.6502294,Europe & Central Asia,Uzbekistan
+151,UZB,1995,0.5992212,Europe & Central Asia,Uzbekistan
+152,UZB,1996,0.6748817,Europe & Central Asia,Uzbekistan
+153,UZB,1997,0.527536,Europe & Central Asia,Uzbekistan
+154,UZB,1998,0.8218992,Europe & Central Asia,Uzbekistan
+155,UZB,2004,0.6168597,Europe & Central Asia,Uzbekistan
+156,UZB,2005,0.59594196,Europe & Central Asia,Uzbekistan
+157,UZB,2006,0.6168597,Europe & Central Asia,Uzbekistan
+158,UZB,2007,0.6168597,Europe & Central Asia,Uzbekistan
+159,UZB,2008,0.6168597,Europe & Central Asia,Uzbekistan
+160,UZB,2009,0.6168597,Europe & Central Asia,Uzbekistan
+161,UZB,2010,0.6168597,Europe & Central Asia,Uzbekistan
+162,UZB,2011,0.6168597,Europe & Central Asia,Uzbekistan
+163,UZB,2012,0.58599645,Europe & Central Asia,Uzbekistan
+164,UZB,2013,0.58599645,Europe & Central Asia,Uzbekistan
+165,UZB,2014,0.50910413,Europe & Central Asia,Uzbekistan
+166,UZB,2015,0.54004246,Europe & Central Asia,Uzbekistan
+167,UZB,2016,0.5364196,Europe & Central Asia,Uzbekistan
+168,UZB,2017,0.5791757,Europe & Central Asia,Uzbekistan
+169,UZB,2018,0.6067011,Europe & Central Asia,Uzbekistan
+170,UZB,2019,0.6429425,Europe & Central Asia,Uzbekistan
+171,UZB,2020,0.5712734,Europe & Central Asia,Uzbekistan
+172,USA,1990,0.10881742,North America,United States
+173,URY,1990,0.43163842,Latin America & Caribbean,Uruguay
+174,URY,1991,0.41339687,Latin America & Caribbean,Uruguay
+175,URY,1992,0.37392253,Latin America & Caribbean,Uruguay
+176,UKR,1990,0.5655619,Europe & Central Asia,Ukraine
+177,UKR,1991,0.5655619,Europe & Central Asia,Ukraine
+178,UKR,1992,0.6478858,Europe & Central Asia,Ukraine
+179,UGA,1990,0.47803178,Sub-Saharan Africa,Uganda
+180,UGA,1991,0.46559876,Sub-Saharan Africa,Uganda
+181,UGA,1992,0.4264554,Sub-Saharan Africa,Uganda
+182,UGA,2020,0.57133615,Sub-Saharan Africa,Uganda
+183,TZA,1990,0.5933555,Sub-Saharan Africa,Tanzania
+184,TZA,1991,0.58744746,Sub-Saharan Africa,Tanzania
+185,TZA,1992,0.5706936,Sub-Saharan Africa,Tanzania
+186,TZA,1993,0.5929432,Sub-Saharan Africa,Tanzania
+187,TZA,1994,0.5971373,Sub-Saharan Africa,Tanzania
+188,TZA,1995,0.5971373,Sub-Saharan Africa,Tanzania
+189,TZA,1996,0.6106998,Sub-Saharan Africa,Tanzania
+190,TZA,1997,0.36970034,Sub-Saharan Africa,Tanzania
+191,TZA,2001,0.5040891,Sub-Saharan Africa,Tanzania
+192,TZA,2002,0.558663,Sub-Saharan Africa,Tanzania
+193,TZA,2003,0.5618545,Sub-Saharan Africa,Tanzania
+194,TZA,2004,0.36328453,Sub-Saharan Africa,Tanzania
+195,TZA,2012,0.60637486,Sub-Saharan Africa,Tanzania
+196,TZA,2013,0.56200653,Sub-Saharan Africa,Tanzania
+197,TZA,2014,0.5913827,Sub-Saharan Africa,Tanzania
+198,TZA,2015,0.37314147,Sub-Saharan Africa,Tanzania
+199,TZA,2019,0.5398523,Sub-Saharan Africa,Tanzania
+200,TZA,2020,0.5232346,Sub-Saharan Africa,Tanzania
+201,TUR,1990,0.6006377,Europe & Central Asia,Türkiye
+202,TUR,1991,0.61797166,Europe & Central Asia,Türkiye
+203,TUR,1992,0.5426294,Europe & Central Asia,Türkiye
+204,TUR,1993,0.57073176,Europe & Central Asia,Türkiye
+205,TUR,1994,0.5822979,Europe & Central Asia,Türkiye
+206,TUR,1995,0.4791181,Europe & Central Asia,Türkiye
+207,TUR,1996,0.5168703,Europe & Central Asia,Türkiye
+208,TUR,1997,0.5095019,Europe & Central Asia,Türkiye
+209,TUR,1998,0.5334199,Europe & Central Asia,Türkiye
+210,TUR,1999,0.4558216,Europe & Central Asia,Türkiye
+211,TUN,1990,0.3153572,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+212,TUN,1991,0.30914968,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+213,TUN,1996,0.28219205,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+214,TUN,2001,0.3083644,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+215,TUN,2006,0.34928095,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+216,TUN,2011,0.32865828,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+217,TUN,2016,0.3494605,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+218,TUN,2017,0.3494605,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+219,TUN,2018,0.285219,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+220,TUN,2019,0.34192663,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+221,TUN,2020,0.27738032,"Middle East, North Africa, Afghanistan & Pakistan",Tunisia
+222,TTO,1990,0.43647793,Latin America & Caribbean,Trinidad and Tobago
+223,TTO,1991,0.42596304,Latin America & Caribbean,Trinidad and Tobago
+224,TTO,1992,0.47272876,Latin America & Caribbean,Trinidad and Tobago
+225,TTO,1993,0.4213008,Latin America & Caribbean,Trinidad and Tobago
+226,TTO,1994,0.42791143,Latin America & Caribbean,Trinidad and Tobago
+227,TTO,1995,0.458988,Latin America & Caribbean,Trinidad and Tobago
+228,TTO,1996,0.49014768,Latin America & Caribbean,Trinidad and Tobago
+229,TTO,1997,0.5376629,Latin America & Caribbean,Trinidad and Tobago
+230,TTO,1998,0.5925587,Latin America & Caribbean,Trinidad and Tobago
+231,TTO,1999,0.5925587,Latin America & Caribbean,Trinidad and Tobago
+232,TTO,2000,0.53574735,Latin America & Caribbean,Trinidad and Tobago
+233,TTO,2001,0.594672,Latin America & Caribbean,Trinidad and Tobago
+234,TTO,2002,0.60273284,Latin America & Caribbean,Trinidad and Tobago
+235,TTO,2003,0.709026,Latin America & Caribbean,Trinidad and Tobago
+236,TTO,2004,0.62138987,Latin America & Caribbean,Trinidad and Tobago
+237,TTO,2005,0.58377564,Latin America & Caribbean,Trinidad and Tobago
+238,TTO,2006,0.68455297,Latin America & Caribbean,Trinidad and Tobago
+239,TTO,2007,0.6194046,Latin America & Caribbean,Trinidad and Tobago
+240,TTO,2008,0.6698556,Latin America & Caribbean,Trinidad and Tobago
+241,TTO,2009,0.64367026,Latin America & Caribbean,Trinidad and Tobago
+242,TTO,2010,0.623118,Latin America & Caribbean,Trinidad and Tobago
+243,TTO,2011,0.623118,Latin America & Caribbean,Trinidad and Tobago
+244,TTO,2012,0.6194046,Latin America & Caribbean,Trinidad and Tobago
+245,TTO,2013,0.61674273,Latin America & Caribbean,Trinidad and Tobago
+246,TTO,2014,0.5440252,Latin America & Caribbean,Trinidad and Tobago
+247,TTO,2015,0.6165308,Latin America & Caribbean,Trinidad and Tobago
+248,TTO,2016,0.48135227,Latin America & Caribbean,Trinidad and Tobago
+249,TTO,2017,0.4613633,Latin America & Caribbean,Trinidad and Tobago
+250,TTO,2018,0.5431648,Latin America & Caribbean,Trinidad and Tobago
+251,TTO,2019,0.59194654,Latin America & Caribbean,Trinidad and Tobago
+252,TTO,2020,0.54448634,Latin America & Caribbean,Trinidad and Tobago
+253,TON,1990,0.5069639,East Asia & Pacific,Tonga
+254,TON,1991,0.53790396,East Asia & Pacific,Tonga
+255,TON,1992,0.38751933,East Asia & Pacific,Tonga
+256,TON,1993,0.32025117,East Asia & Pacific,Tonga
+257,TON,1994,0.23428774,East Asia & Pacific,Tonga
+258,TON,1995,0.33070457,East Asia & Pacific,Tonga
+259,TON,1996,0.2631134,East Asia & Pacific,Tonga
+260,TON,1997,0.29326463,East Asia & Pacific,Tonga
+261,TON,1998,0.27286202,East Asia & Pacific,Tonga
+262,TON,1999,0.27338693,East Asia & Pacific,Tonga
+263,TON,2000,0.24788697,East Asia & Pacific,Tonga
+264,TON,2001,0.26548132,East Asia & Pacific,Tonga
+265,TON,2002,0.27411392,East Asia & Pacific,Tonga
+266,TON,2003,0.29326463,East Asia & Pacific,Tonga
+267,TON,2004,0.28026882,East Asia & Pacific,Tonga
+268,TON,2005,0.28026882,East Asia & Pacific,Tonga
+269,TON,2006,0.3266074,East Asia & Pacific,Tonga
+270,TON,2010,0.32658952,East Asia & Pacific,Tonga
+271,TON,2011,0.2967801,East Asia & Pacific,Tonga
+272,TON,2016,0.29195777,East Asia & Pacific,Tonga
+273,TON,2017,0.40899777,East Asia & Pacific,Tonga
+274,TON,2018,0.26350212,East Asia & Pacific,Tonga
+275,TON,2019,0.32630366,East Asia & Pacific,Tonga
+276,TON,2020,0.2711202,East Asia & Pacific,Tonga
+277,TLS,1990,0.39387468,East Asia & Pacific,Timor-Leste
+278,TLS,1991,0.39387468,East Asia & Pacific,Timor-Leste
+279,TLS,1992,0.40480474,East Asia & Pacific,Timor-Leste
+280,TLS,1993,0.40480474,East Asia & Pacific,Timor-Leste
+281,TLS,1994,0.40480474,East Asia & Pacific,Timor-Leste
+282,TLS,1995,0.40480474,East Asia & Pacific,Timor-Leste
+283,TLS,1996,0.44158855,East Asia & Pacific,Timor-Leste
+284,TLS,1997,0.22250378,East Asia & Pacific,Timor-Leste
+285,TLS,1998,0.21474579,East Asia & Pacific,Timor-Leste
+286,TLS,1999,0.25595275,East Asia & Pacific,Timor-Leste
+287,TLS,2000,0.3565364,East Asia & Pacific,Timor-Leste
+288,TLS,2001,0.24208781,East Asia & Pacific,Timor-Leste
+289,TLS,2002,0.25804558,East Asia & Pacific,Timor-Leste
+290,TLS,2003,0.40730256,East Asia & Pacific,Timor-Leste
+291,TLS,2008,0.41700023,East Asia & Pacific,Timor-Leste
+292,TLS,2009,0.44893447,East Asia & Pacific,Timor-Leste
+293,TLS,2010,0.4825775,East Asia & Pacific,Timor-Leste
+294,TLS,2011,0.4139513,East Asia & Pacific,Timor-Leste
+295,TLS,2015,0.29424885,East Asia & Pacific,Timor-Leste
+296,TLS,2016,0.26071373,East Asia & Pacific,Timor-Leste
+297,TLS,2017,0.21929286,East Asia & Pacific,Timor-Leste
+298,TLS,2018,0.37277108,East Asia & Pacific,Timor-Leste
+299,TLS,2019,0.39660618,East Asia & Pacific,Timor-Leste
+300,TLS,2020,0.48041713,East Asia & Pacific,Timor-Leste
+301,TJK,1990,0.6078286,Europe & Central Asia,Tajikistan
+302,TJK,1991,0.5876367,Europe & Central Asia,Tajikistan
+303,TJK,1992,0.546292,Europe & Central Asia,Tajikistan
+304,TJK,1993,0.5069531,Europe & Central Asia,Tajikistan
+305,TJK,1994,0.524769,Europe & Central Asia,Tajikistan
+306,TJK,1995,0.48763198,Europe & Central Asia,Tajikistan
+307,TJK,1996,0.45820385,Europe & Central Asia,Tajikistan
+308,TJK,1997,0.2954228,Europe & Central Asia,Tajikistan
+309,TJK,1998,0.52587515,Europe & Central Asia,Tajikistan
+310,TJK,1999,0.38009608,Europe & Central Asia,Tajikistan
+311,TJK,2010,0.5417007,Europe & Central Asia,Tajikistan
+312,TJK,2011,0.54717875,Europe & Central Asia,Tajikistan
+313,TJK,2016,0.5417007,Europe & Central Asia,Tajikistan
+314,TJK,2017,0.5417007,Europe & Central Asia,Tajikistan
+315,TJK,2018,0.5608943,Europe & Central Asia,Tajikistan
+316,TJK,2019,0.5759767,Europe & Central Asia,Tajikistan
+317,TJK,2020,0.55512017,Europe & Central Asia,Tajikistan
+318,THA,1990,0.20643109,East Asia & Pacific,Thailand
+319,TGO,1990,0.40862966,Sub-Saharan Africa,Togo
+320,TGO,1991,0.55922675,Sub-Saharan Africa,Togo
+321,TGO,1992,0.5291883,Sub-Saharan Africa,Togo
+322,TGO,1993,0.46301696,Sub-Saharan Africa,Togo
+323,TGO,1994,0.6809205,Sub-Saharan Africa,Togo
+324,TGO,1995,0.4670704,Sub-Saharan Africa,Togo
+325,TGO,1996,0.4516608,Sub-Saharan Africa,Togo
+326,TGO,1997,0.54284775,Sub-Saharan Africa,Togo
+327,TGO,1998,0.47529113,Sub-Saharan Africa,Togo
+328,TGO,1999,0.47863266,Sub-Saharan Africa,Togo
+329,TGO,2000,0.42743176,Sub-Saharan Africa,Togo
+330,TGO,2001,0.46395126,Sub-Saharan Africa,Togo
+331,TGO,2002,0.46915406,Sub-Saharan Africa,Togo
+332,TGO,2003,0.50315964,Sub-Saharan Africa,Togo
+333,TGO,2004,0.42857802,Sub-Saharan Africa,Togo
+334,TGO,2005,0.5140948,Sub-Saharan Africa,Togo
+335,TGO,2006,0.51638925,Sub-Saharan Africa,Togo
+336,TGO,2007,0.44550055,Sub-Saharan Africa,Togo
+337,TGO,2019,0.5687458,Sub-Saharan Africa,Togo
+338,TGO,2020,0.6015793,Sub-Saharan Africa,Togo
+339,TCD,1990,0.63161314,Sub-Saharan Africa,Chad
+340,TCD,1991,0.62299,Sub-Saharan Africa,Chad
+341,TCD,1992,0.67226416,Sub-Saharan Africa,Chad
+342,TCD,1993,0.57970434,Sub-Saharan Africa,Chad
+343,TCD,1994,0.68102914,Sub-Saharan Africa,Chad
+344,TCD,1995,0.5983696,Sub-Saharan Africa,Chad
+345,TCD,1996,0.63506603,Sub-Saharan Africa,Chad
+346,TCD,1997,0.6492154,Sub-Saharan Africa,Chad
+347,TCD,1998,0.6668878,Sub-Saharan Africa,Chad
+348,TCD,1999,0.66912615,Sub-Saharan Africa,Chad
+349,TCD,2000,0.56818515,Sub-Saharan Africa,Chad
+350,TCD,2001,0.5650398,Sub-Saharan Africa,Chad
+351,TCD,2002,0.68418735,Sub-Saharan Africa,Chad
+352,TCD,2003,0.7031887,Sub-Saharan Africa,Chad
+353,TCD,2004,0.6559321,Sub-Saharan Africa,Chad
+354,TCD,2005,0.66493297,Sub-Saharan Africa,Chad
+355,TCD,2006,0.67512774,Sub-Saharan Africa,Chad
+356,TCD,2007,0.41088706,Sub-Saharan Africa,Chad
+357,TCD,2008,0.40105096,Sub-Saharan Africa,Chad
+358,TCD,2012,0.70046717,Sub-Saharan Africa,Chad
+359,TCD,2013,0.6082834,Sub-Saharan Africa,Chad
+360,TCD,2014,0.5811951,Sub-Saharan Africa,Chad
+361,TCD,2015,0.7223012,Sub-Saharan Africa,Chad
+362,TCD,2019,0.5606411,Sub-Saharan Africa,Chad
+363,TCD,2020,0.52761835,Sub-Saharan Africa,Chad
+364,SYR,1990,0.24277785,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+365,SYR,1991,0.2273759,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+366,SYR,1992,0.28422016,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+367,SYR,1993,0.25183928,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+368,SYR,1994,0.23589242,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+369,SYR,1995,0.2667916,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+370,SYR,1996,0.24722345,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+371,SYR,1997,0.21905191,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+372,SYR,1998,0.28484273,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+373,SYR,1999,0.19012861,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+374,SYR,2000,0.13161384,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+375,SYR,2010,0.22931889,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+376,SYR,2011,0.27272877,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+377,SYR,2012,0.25654912,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+378,SYR,2013,0.33102468,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+379,SYR,2014,0.21737719,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+380,SYR,2015,0.27653903,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+381,SYR,2016,0.27909052,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+382,SYR,2017,0.28716075,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+383,SYR,2018,0.30104196,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+384,SYR,2019,0.23928887,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+385,SYR,2020,0.26825213,"Middle East, North Africa, Afghanistan & Pakistan",Syrian Arab Republic
+386,SYC,1990,0.4917619,Sub-Saharan Africa,Seychelles
+387,SYC,1991,0.44473493,Sub-Saharan Africa,Seychelles
+388,SYC,1992,0.42370212,Sub-Saharan Africa,Seychelles
+389,SYC,1993,0.4149059,Sub-Saharan Africa,Seychelles
+390,SYC,1994,0.40012112,Sub-Saharan Africa,Seychelles
+391,SYC,1995,0.3632563,Sub-Saharan Africa,Seychelles
+392,SYC,1996,0.4103023,Sub-Saharan Africa,Seychelles
+393,SYC,1997,0.51387304,Sub-Saharan Africa,Seychelles
+394,SYC,1998,0.5482631,Sub-Saharan Africa,Seychelles
+395,SYC,1999,0.5203047,Sub-Saharan Africa,Seychelles
+396,SYC,2000,0.65475833,Sub-Saharan Africa,Seychelles
+397,SYC,2001,0.3166044,Sub-Saharan Africa,Seychelles
+398,SYC,2002,0.49626234,Sub-Saharan Africa,Seychelles
+399,SYC,2003,0.23516771,Sub-Saharan Africa,Seychelles
+400,SYC,2007,0.39152843,Sub-Saharan Africa,Seychelles
+401,SYC,2008,0.317895,Sub-Saharan Africa,Seychelles
+402,SYC,2009,0.29592362,Sub-Saharan Africa,Seychelles
+403,SYC,2010,0.32942966,Sub-Saharan Africa,Seychelles
+404,SYC,2014,0.29218802,Sub-Saharan Africa,Seychelles
+405,SYC,2019,0.24547367,Sub-Saharan Africa,Seychelles
+406,SYC,2020,0.5108034,Sub-Saharan Africa,Seychelles
+407,SWZ,1990,0.42701316,Sub-Saharan Africa,Eswatini
+408,SWZ,1991,0.38196668,Sub-Saharan Africa,Eswatini
+409,SWZ,1992,0.37741238,Sub-Saharan Africa,Eswatini
+410,SWZ,1993,0.3337398,Sub-Saharan Africa,Eswatini
+411,SWZ,1994,0.40693173,Sub-Saharan Africa,Eswatini
+412,SWZ,1995,0.35869452,Sub-Saharan Africa,Eswatini
+413,SWZ,1996,0.40379396,Sub-Saharan Africa,Eswatini
+414,SWZ,2001,0.3471031,Sub-Saharan Africa,Eswatini
+415,SWZ,2002,0.4368831,Sub-Saharan Africa,Eswatini
+416,SWZ,2003,0.45847085,Sub-Saharan Africa,Eswatini
+417,SWZ,2004,0.4747647,Sub-Saharan Africa,Eswatini
+418,SWZ,2005,0.41035342,Sub-Saharan Africa,Eswatini
+419,SWZ,2006,0.4757381,Sub-Saharan Africa,Eswatini
+420,SWZ,2010,0.3838314,Sub-Saharan Africa,Eswatini
+421,SWZ,2011,0.4695725,Sub-Saharan Africa,Eswatini
+422,SWZ,2012,0.43889803,Sub-Saharan Africa,Eswatini
+423,SWZ,2013,0.3869522,Sub-Saharan Africa,Eswatini
+424,SWZ,2017,0.45370632,Sub-Saharan Africa,Eswatini
+425,SWZ,2018,0.34071407,Sub-Saharan Africa,Eswatini
+426,SWZ,2019,0.4246735,Sub-Saharan Africa,Eswatini
+427,SWZ,2020,0.49105257,Sub-Saharan Africa,Eswatini
+428,SWE,1990,0.36085358,Europe & Central Asia,Sweden
+429,SWE,1991,0.26550955,Europe & Central Asia,Sweden
+430,SWE,1992,0.13345668,Europe & Central Asia,Sweden
+431,SWE,1996,0.23429866,Europe & Central Asia,Sweden
+432,SVN,1990,0.63690954,Europe & Central Asia,Slovenia
+433,SVN,1991,0.5347088,Europe & Central Asia,Slovenia
+434,SVN,1992,0.45525077,Europe & Central Asia,Slovenia
+435,SVN,1993,0.72404855,Europe & Central Asia,Slovenia
+436,SVK,1990,0.5887342,Europe & Central Asia,Slovak Republic
+437,SVK,1991,0.6341099,Europe & Central Asia,Slovak Republic
+438,SVK,1992,0.7119832,Europe & Central Asia,Slovak Republic
+439,SVK,1997,0.61575884,Europe & Central Asia,Slovak Republic
+440,SVK,1998,0.4289456,Europe & Central Asia,Slovak Republic
+441,SVK,1999,0.30079886,Europe & Central Asia,Slovak Republic
+442,SVK,2000,0.48599848,Europe & Central Asia,Slovak Republic
+443,SVK,2001,0.47879648,Europe & Central Asia,Slovak Republic
+444,SUR,1990,0.46181366,Latin America & Caribbean,Suriname
+445,SUR,1991,0.409869,Latin America & Caribbean,Suriname
+446,SUR,1992,0.3919582,Latin America & Caribbean,Suriname
+447,SUR,1993,0.42688006,Latin America & Caribbean,Suriname
+448,SUR,1994,0.60052866,Latin America & Caribbean,Suriname
+449,SUR,1995,0.560157,Latin America & Caribbean,Suriname
+450,SUR,1996,0.59275085,Latin America & Caribbean,Suriname
+451,SUR,1997,0.5618572,Latin America & Caribbean,Suriname
+452,SUR,1998,0.31798354,Latin America & Caribbean,Suriname
+453,SUR,1999,0.45534447,Latin America & Caribbean,Suriname
+454,SUR,2000,0.48706672,Latin America & Caribbean,Suriname
+455,SUR,2001,0.6091806,Latin America & Caribbean,Suriname
+456,SUR,2002,0.5993231,Latin America & Caribbean,Suriname
+457,SUR,2003,0.5955275,Latin America & Caribbean,Suriname
+458,SUR,2004,0.59397984,Latin America & Caribbean,Suriname
+459,SUR,2005,0.5921236,Latin America & Caribbean,Suriname
+460,SUR,2006,0.5152351,Latin America & Caribbean,Suriname
+461,SUR,2007,0.62440753,Latin America & Caribbean,Suriname
+462,SUR,2008,0.5787705,Latin America & Caribbean,Suriname
+463,SUR,2009,0.57310367,Latin America & Caribbean,Suriname
+464,SUR,2010,0.470109,Latin America & Caribbean,Suriname
+465,SUR,2011,0.6095095,Latin America & Caribbean,Suriname
+466,SUR,2012,0.59504,Latin America & Caribbean,Suriname
+467,SUR,2013,0.57618594,Latin America & Caribbean,Suriname
+468,SUR,2014,0.5563244,Latin America & Caribbean,Suriname
+469,SUR,2015,0.42846072,Latin America & Caribbean,Suriname
+470,SUR,2016,0.6147041,Latin America & Caribbean,Suriname
+471,SUR,2017,0.61388004,Latin America & Caribbean,Suriname
+472,SUR,2018,0.6049665,Latin America & Caribbean,Suriname
+473,SUR,2019,0.58124983,Latin America & Caribbean,Suriname
+474,SUR,2020,0.59035575,Latin America & Caribbean,Suriname
+475,SRB,1990,0.46651798,Europe & Central Asia,Serbia
+476,SRB,1991,0.4850407,Europe & Central Asia,Serbia
+477,SRB,1992,0.4850407,Europe & Central Asia,Serbia
+478,SRB,1993,0.4850407,Europe & Central Asia,Serbia
+479,SRB,1994,0.4850407,Europe & Central Asia,Serbia
+480,SRB,1995,0.4850407,Europe & Central Asia,Serbia
+481,SRB,1996,0.50008,Europe & Central Asia,Serbia
+482,SRB,1997,0.48977548,Europe & Central Asia,Serbia
+483,SRB,1998,0.5129397,Europe & Central Asia,Serbia
+484,SRB,1999,0.51704526,Europe & Central Asia,Serbia
+485,SRB,2000,0.4850407,Europe & Central Asia,Serbia
+486,SRB,2001,0.5239113,Europe & Central Asia,Serbia
+487,SRB,2002,0.33696648,Europe & Central Asia,Serbia
+488,SLV,1990,0.59539205,Latin America & Caribbean,El Salvador
+489,SLV,1991,0.7303935,Latin America & Caribbean,El Salvador
+490,SLV,2020,0.5740831,Latin America & Caribbean,El Salvador
+491,SLE,1990,0.6050773,Sub-Saharan Africa,Sierra Leone
+492,SLE,1991,0.6364167,Sub-Saharan Africa,Sierra Leone
+493,SLE,1992,0.657695,Sub-Saharan Africa,Sierra Leone
+494,SLE,1993,0.6050773,Sub-Saharan Africa,Sierra Leone
+495,SLE,1994,0.6364167,Sub-Saharan Africa,Sierra Leone
+496,SLE,1995,0.6101803,Sub-Saharan Africa,Sierra Leone
+497,SLE,1996,0.6364167,Sub-Saharan Africa,Sierra Leone
+498,SLE,1997,0.57789147,Sub-Saharan Africa,Sierra Leone
+499,SLE,1998,0.5794354,Sub-Saharan Africa,Sierra Leone
+500,SLE,1999,0.52273065,Sub-Saharan Africa,Sierra Leone
+501,SLE,2000,0.651799,Sub-Saharan Africa,Sierra Leone
+502,SLE,2001,0.6138273,Sub-Saharan Africa,Sierra Leone
+503,SLE,2002,0.6493033,Sub-Saharan Africa,Sierra Leone
+504,SLE,2003,0.59341925,Sub-Saharan Africa,Sierra Leone
+505,SLE,2004,0.6013,Sub-Saharan Africa,Sierra Leone
+506,SLE,2005,0.61817694,Sub-Saharan Africa,Sierra Leone
+507,SLE,2006,0.5820679,Sub-Saharan Africa,Sierra Leone
+508,SLE,2007,0.5820679,Sub-Saharan Africa,Sierra Leone
+509,SLE,2008,0.66623485,Sub-Saharan Africa,Sierra Leone
+510,SLE,2012,0.5702711,Sub-Saharan Africa,Sierra Leone
+511,SLE,2013,0.6063314,Sub-Saharan Africa,Sierra Leone
+512,SLE,2014,0.5307665,Sub-Saharan Africa,Sierra Leone
+513,SLE,2015,0.4167151,Sub-Saharan Africa,Sierra Leone
+514,SLE,2019,0.596991,Sub-Saharan Africa,Sierra Leone
+515,SLE,2020,0.5409994,Sub-Saharan Africa,Sierra Leone
+516,SLB,1990,0.36724338,East Asia & Pacific,Solomon Islands
+517,SLB,1991,0.19602394,East Asia & Pacific,Solomon Islands
+518,SLB,1992,0.43411818,East Asia & Pacific,Solomon Islands
+519,SLB,1993,0.36724338,East Asia & Pacific,Solomon Islands
+520,SLB,1994,0.38986644,East Asia & Pacific,Solomon Islands
+521,SLB,1995,0.3794964,East Asia & Pacific,Solomon Islands
+522,SLB,1996,0.33801997,East Asia & Pacific,Solomon Islands
+523,SLB,1997,0.3248304,East Asia & Pacific,Solomon Islands
+524,SLB,1998,0.32203713,East Asia & Pacific,Solomon Islands
+525,SLB,1999,0.30965614,East Asia & Pacific,Solomon Islands
+526,SLB,2000,0.27781054,East Asia & Pacific,Solomon Islands
+527,SLB,2001,0.33044243,East Asia & Pacific,Solomon Islands
+528,SLB,2002,0.33169746,East Asia & Pacific,Solomon Islands
+529,SLB,2003,0.34570408,East Asia & Pacific,Solomon Islands
+530,SLB,2004,0.33450714,East Asia & Pacific,Solomon Islands
+531,SLB,2005,0.26785576,East Asia & Pacific,Solomon Islands
+532,SLB,2006,0.27847594,East Asia & Pacific,Solomon Islands
+533,SLB,2007,0.37210813,East Asia & Pacific,Solomon Islands
+534,SLB,2008,0.32848403,East Asia & Pacific,Solomon Islands
+535,SLB,2009,0.6611337,East Asia & Pacific,Solomon Islands
+536,SLB,2013,0.49256137,East Asia & Pacific,Solomon Islands
+537,SLB,2014,0.46127892,East Asia & Pacific,Solomon Islands
+538,SLB,2015,0.36869282,East Asia & Pacific,Solomon Islands
+539,SLB,2016,0.43894345,East Asia & Pacific,Solomon Islands
+540,SLB,2017,0.37278777,East Asia & Pacific,Solomon Islands
+541,SLB,2018,0.37658647,East Asia & Pacific,Solomon Islands
+542,SLB,2019,0.3583846,East Asia & Pacific,Solomon Islands
+543,SLB,2020,0.33271956,East Asia & Pacific,Solomon Islands
+544,SEN,1990,0.48102066,Sub-Saharan Africa,Senegal
+545,SEN,1991,0.7585486,Sub-Saharan Africa,Senegal
+546,SEN,1995,0.51732033,Sub-Saharan Africa,Senegal
+547,SEN,1996,0.45365813,Sub-Saharan Africa,Senegal
+548,SEN,1997,0.45856708,Sub-Saharan Africa,Senegal
+549,SEN,1998,0.42403844,Sub-Saharan Africa,Senegal
+550,SEN,2006,0.47287533,Sub-Saharan Africa,Senegal
+551,SEN,2007,0.51043606,Sub-Saharan Africa,Senegal
+552,SEN,2012,0.46777573,Sub-Saharan Africa,Senegal
+553,SEN,2013,0.46777573,Sub-Saharan Africa,Senegal
+554,SEN,2014,0.4624492,Sub-Saharan Africa,Senegal
+555,SEN,2015,0.46888217,Sub-Saharan Africa,Senegal
+556,SEN,2019,0.53354675,Sub-Saharan Africa,Senegal
+557,SEN,2020,0.54115283,Sub-Saharan Africa,Senegal
+558,SDN,1990,0.5543659,Sub-Saharan Africa,Sudan
+559,SDN,1991,0.5242688,Sub-Saharan Africa,Sudan
+560,SDN,1992,0.49739915,Sub-Saharan Africa,Sudan
+561,SDN,1993,0.33661819,Sub-Saharan Africa,Sudan
+562,SDN,1994,0.34338135,Sub-Saharan Africa,Sudan
+563,SDN,1995,0.37276348,Sub-Saharan Africa,Sudan
+564,SDN,1996,0.4188903,Sub-Saharan Africa,Sudan
+565,SDN,1997,0.41360477,Sub-Saharan Africa,Sudan
+566,SDN,1998,0.3224226,Sub-Saharan Africa,Sudan
+567,SDN,1999,0.57255334,Sub-Saharan Africa,Sudan
+568,SDN,2000,0.491455,Sub-Saharan Africa,Sudan
+569,SDN,2001,0.49024618,Sub-Saharan Africa,Sudan
+570,SDN,2002,0.5122069,Sub-Saharan Africa,Sudan
+571,SDN,2003,0.47630882,Sub-Saharan Africa,Sudan
+572,SDN,2004,0.30140296,Sub-Saharan Africa,Sudan
+573,SDN,2005,0.3566832,Sub-Saharan Africa,Sudan
+574,SDN,2006,0.51524377,Sub-Saharan Africa,Sudan
+575,SDN,2007,0.5540605,Sub-Saharan Africa,Sudan
+576,SDN,2008,0.5906771,Sub-Saharan Africa,Sudan
+577,SDN,2009,0.43049812,Sub-Saharan Africa,Sudan
+578,SDN,2010,0.36294127,Sub-Saharan Africa,Sudan
+579,SDN,2015,0.5098596,Sub-Saharan Africa,Sudan
+580,SDN,2016,0.52805716,Sub-Saharan Africa,Sudan
+581,SDN,2017,0.54954493,Sub-Saharan Africa,Sudan
+582,SDN,2018,0.49486294,Sub-Saharan Africa,Sudan
+583,SDN,2019,0.56231713,Sub-Saharan Africa,Sudan
+584,SDN,2020,0.5687164,Sub-Saharan Africa,Sudan
+585,RWA,1990,0.51641333,Sub-Saharan Africa,Rwanda
+586,RWA,1991,0.5487613,Sub-Saharan Africa,Rwanda
+587,RWA,1992,0.6832663,Sub-Saharan Africa,Rwanda
+588,RWA,1993,0.7283001,Sub-Saharan Africa,Rwanda
+589,RWA,1994,0.74548763,Sub-Saharan Africa,Rwanda
+590,RWA,1995,0.6467579,Sub-Saharan Africa,Rwanda
+591,RWA,1996,0.55377996,Sub-Saharan Africa,Rwanda
+592,RWA,1997,0.61338043,Sub-Saharan Africa,Rwanda
+593,RWA,1998,0.6059016,Sub-Saharan Africa,Rwanda
+594,RWA,1999,0.6643011,Sub-Saharan Africa,Rwanda
+595,RWA,2000,0.6314101,Sub-Saharan Africa,Rwanda
+596,RWA,2001,0.6049627,Sub-Saharan Africa,Rwanda
+597,RWA,2006,0.5565557,Sub-Saharan Africa,Rwanda
+598,RWA,2017,0.5732774,Sub-Saharan Africa,Rwanda
+599,RWA,2018,0.58013266,Sub-Saharan Africa,Rwanda
+600,RWA,2019,0.6280886,Sub-Saharan Africa,Rwanda
+601,RWA,2020,0.5835624,Sub-Saharan Africa,Rwanda
+602,RUS,1990,0.6228375,Europe & Central Asia,Russian Federation
+603,RUS,1991,0.6459091,Europe & Central Asia,Russian Federation
+604,RUS,1992,0.56562877,Europe & Central Asia,Russian Federation
+605,RUS,1993,0.41141745,Europe & Central Asia,Russian Federation
+606,ROU,1990,0.53766567,Europe & Central Asia,Romania
+607,ROU,1991,0.53467816,Europe & Central Asia,Romania
+608,ROU,1992,0.6300415,Europe & Central Asia,Romania
+609,QAT,1990,0.3439296,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+610,QAT,1991,0.37524316,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+611,QAT,1992,0.2635137,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+612,QAT,1993,0.20966601,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+613,QAT,1994,0.16547246,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+614,QAT,1995,0.22668056,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+615,QAT,1996,0.25752684,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+616,QAT,1997,0.32523942,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+617,QAT,1998,0.32034814,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+618,QAT,1999,0.2182469,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+619,QAT,2000,0.22684549,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+620,QAT,2001,0.25960404,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+621,QAT,2002,0.24453218,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+622,QAT,2003,0.24233258,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+623,QAT,2004,0.3073586,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+624,QAT,2005,0.270658,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+625,QAT,2006,0.42026076,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+626,QAT,2007,0.35998988,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+627,QAT,2008,0.5002914,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+628,QAT,2009,0.37226507,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+629,QAT,2010,0.41872644,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+630,QAT,2011,0.46607232,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+631,QAT,2012,0.3845872,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+632,QAT,2013,0.37327752,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+633,QAT,2014,0.36004874,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+634,QAT,2015,0.3810004,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+635,QAT,2016,0.35682806,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+636,QAT,2017,0.35423255,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+637,QAT,2018,0.34515736,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+638,QAT,2019,0.27578264,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+639,QAT,2020,0.3003056,"Middle East, North Africa, Afghanistan & Pakistan",Qatar
+640,PSE,1990,0.3584867,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+641,PSE,1991,0.3553998,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+642,PSE,1992,0.363757,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+643,PSE,1993,0.363757,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+644,PSE,1994,0.32191268,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+645,PSE,1995,0.39416587,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+646,PSE,1996,0.40020874,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+647,PSE,1997,0.35751814,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+648,PSE,1998,0.36093646,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+649,PSE,1999,0.39375654,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+650,PSE,2000,0.2252191,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+651,PSE,2001,0.2190175,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+652,PSE,2002,0.3074768,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+653,PSE,2003,0.30245608,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+654,PSE,2004,0.26832846,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+655,PSE,2012,0.20639387,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+656,PSE,2017,0.20605066,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+657,PSE,2018,0.28451607,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+658,PSE,2019,0.35584533,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+659,PSE,2020,0.28953707,"Middle East, North Africa, Afghanistan & Pakistan",West Bank and Gaza
+660,PRY,1990,0.6164686,Latin America & Caribbean,Paraguay
+661,PRY,1991,0.6046056,Latin America & Caribbean,Paraguay
+662,PRT,1990,0.5638476,Europe & Central Asia,Portugal
+663,PRT,1991,0.582072,Europe & Central Asia,Portugal
+664,PRT,1992,0.5773475,Europe & Central Asia,Portugal
+665,PRT,1993,0.5707314,Europe & Central Asia,Portugal
+666,PRT,1994,0.5417929,Europe & Central Asia,Portugal
+667,PRT,1995,0.5573737,Europe & Central Asia,Portugal
+668,PRT,1996,0.48025158,Europe & Central Asia,Portugal
+669,PRT,1997,0.57152337,Europe & Central Asia,Portugal
+670,PRT,1998,0.5818193,Europe & Central Asia,Portugal
+671,PRT,1999,0.43964502,Europe & Central Asia,Portugal
+672,PRT,2000,0.47950774,Europe & Central Asia,Portugal
+673,PRT,2001,0.40928912,Europe & Central Asia,Portugal
+674,PRT,2002,0.3488019,Europe & Central Asia,Portugal
+675,PRT,2003,0.34683213,Europe & Central Asia,Portugal
+676,POL,1990,0.4904957,Europe & Central Asia,Poland
+677,POL,1991,0.5877718,Europe & Central Asia,Poland
+678,POL,1992,0.74660367,Europe & Central Asia,Poland
+679,PNG,1990,0.26668033,East Asia & Pacific,Papua New Guinea
+680,PNG,1991,0.2477788,East Asia & Pacific,Papua New Guinea
+681,PNG,1992,0.24927387,East Asia & Pacific,Papua New Guinea
+682,PNG,1993,0.34107053,East Asia & Pacific,Papua New Guinea
+683,PNG,1994,0.22480646,East Asia & Pacific,Papua New Guinea
+684,PNG,1995,0.30312783,East Asia & Pacific,Papua New Guinea
+685,PNG,1996,0.2972847,East Asia & Pacific,Papua New Guinea
+686,PNG,1997,0.27556306,East Asia & Pacific,Papua New Guinea
+687,PNG,1998,0.27830532,East Asia & Pacific,Papua New Guinea
+688,PNG,1999,0.28866202,East Asia & Pacific,Papua New Guinea
+689,PNG,2000,0.28601673,East Asia & Pacific,Papua New Guinea
+690,PNG,2001,0.31030303,East Asia & Pacific,Papua New Guinea
+691,PNG,2002,0.31405833,East Asia & Pacific,Papua New Guinea
+692,PNG,2003,0.26105183,East Asia & Pacific,Papua New Guinea
+693,PNG,2004,0.27875483,East Asia & Pacific,Papua New Guinea
+694,PNG,2005,0.2671115,East Asia & Pacific,Papua New Guinea
+695,PNG,2006,0.26142463,East Asia & Pacific,Papua New Guinea
+696,PNG,2010,0.3238345,East Asia & Pacific,Papua New Guinea
+697,PNG,2011,0.37039655,East Asia & Pacific,Papua New Guinea
+698,PNG,2012,0.2672823,East Asia & Pacific,Papua New Guinea
+699,PNG,2013,0.31010586,East Asia & Pacific,Papua New Guinea
+700,PNG,2014,0.3238345,East Asia & Pacific,Papua New Guinea
+701,PNG,2015,0.2984796,East Asia & Pacific,Papua New Guinea
+702,PNG,2016,0.38277173,East Asia & Pacific,Papua New Guinea
+703,PNG,2017,0.37252966,East Asia & Pacific,Papua New Guinea
+704,PNG,2018,0.2880275,East Asia & Pacific,Papua New Guinea
+705,PNG,2019,0.32924268,East Asia & Pacific,Papua New Guinea
+706,PNG,2020,0.23832162,East Asia & Pacific,Papua New Guinea
+707,PHL,1990,0.23928024,East Asia & Pacific,Philippines
+708,PHL,1991,0.280048,East Asia & Pacific,Philippines
+709,PHL,2019,0.25226527,East Asia & Pacific,Philippines
+710,PHL,2020,0.21252784,East Asia & Pacific,Philippines
+711,PER,1990,0.53145045,Latin America & Caribbean,Peru
+712,PER,1991,0.6384571,Latin America & Caribbean,Peru
+713,PER,1992,0.56268996,Latin America & Caribbean,Peru
+714,PER,1993,0.56992984,Latin America & Caribbean,Peru
+715,PER,1994,0.5624178,Latin America & Caribbean,Peru
+716,PAN,1990,0.39657348,Latin America & Caribbean,Panama
+717,PAN,1991,0.34412324,Latin America & Caribbean,Panama
+718,PAN,2020,0.47754505,Latin America & Caribbean,Panama
+719,PAK,1990,0.38803533,"Middle East, North Africa, Afghanistan & Pakistan",Pakistan
+720,PAK,1991,0.4236844,"Middle East, North Africa, Afghanistan & Pakistan",Pakistan
+721,PAK,1992,0.46875057,"Middle East, North Africa, Afghanistan & Pakistan",Pakistan
+722,PAK,2019,0.2934298,"Middle East, North Africa, Afghanistan & Pakistan",Pakistan
+723,PAK,2020,0.28758287,"Middle East, North Africa, Afghanistan & Pakistan",Pakistan
+724,NPL,1990,0.22366999,South Asia,Nepal
+725,NPL,1991,0.262181,South Asia,Nepal
+726,NPL,1992,0.27584556,South Asia,Nepal
+727,NPL,1993,0.26539242,South Asia,Nepal
+728,NPL,1994,0.27143255,South Asia,Nepal
+729,NPL,1995,0.2666283,South Asia,Nepal
+730,NPL,1996,0.24906784,South Asia,Nepal
+731,NPL,1997,0.26323786,South Asia,Nepal
+732,NPL,1998,0.25736114,South Asia,Nepal
+733,NPL,1999,0.21701944,South Asia,Nepal
+734,NPL,2000,0.22434458,South Asia,Nepal
+735,NPL,2004,0.23047653,South Asia,Nepal
+736,NPL,2005,0.26347062,South Asia,Nepal
+737,NPL,2006,0.22867826,South Asia,Nepal
+738,NPL,2007,0.62520707,South Asia,Nepal
+739,NPL,2011,0.22688623,South Asia,Nepal
+740,NPL,2012,0.21420161,South Asia,Nepal
+741,NPL,2013,0.26590285,South Asia,Nepal
+742,NPL,2014,0.26640645,South Asia,Nepal
+743,NPL,2015,0.27773812,South Asia,Nepal
+744,NPL,2016,0.27971616,South Asia,Nepal
+745,NPL,2017,0.23991238,South Asia,Nepal
+746,NPL,2018,0.2717278,South Asia,Nepal
+747,NPL,2019,0.26754367,South Asia,Nepal
+748,NPL,2020,0.28301895,South Asia,Nepal
+749,NOR,1990,0.2622979,Europe & Central Asia,Norway
+750,NOR,1991,0.15322377,Europe & Central Asia,Norway
+751,NOR,1996,0.26175332,Europe & Central Asia,Norway
+752,NLD,1990,0.30754995,Europe & Central Asia,Netherlands
+753,NLD,1994,0.16294718,Europe & Central Asia,Netherlands
+754,NLD,1995,0.25005662,Europe & Central Asia,Netherlands
+755,NLD,2000,0.3330291,Europe & Central Asia,Netherlands
+756,NIC,1990,0.50112367,Latin America & Caribbean,Nicaragua
+757,NIC,1991,0.42632812,Latin America & Caribbean,Nicaragua
+758,NIC,1992,0.45363763,Latin America & Caribbean,Nicaragua
+759,NIC,1993,0.44183287,Latin America & Caribbean,Nicaragua
+760,NIC,1994,0.3864141,Latin America & Caribbean,Nicaragua
+761,NIC,2010,0.6451692,Latin America & Caribbean,Nicaragua
+762,NIC,2015,0.66528845,Latin America & Caribbean,Nicaragua
+763,NIC,2016,0.66528845,Latin America & Caribbean,Nicaragua
+764,NIC,2017,0.6820052,Latin America & Caribbean,Nicaragua
+765,NIC,2018,0.65396565,Latin America & Caribbean,Nicaragua
+766,NIC,2019,0.64956456,Latin America & Caribbean,Nicaragua
+767,NIC,2020,0.63987315,Latin America & Caribbean,Nicaragua
+768,NGA,1990,0.66716176,Sub-Saharan Africa,Nigeria
+769,NGA,1991,0.56095165,Sub-Saharan Africa,Nigeria
+770,NGA,1992,0.4874341,Sub-Saharan Africa,Nigeria
+771,NGA,1997,0.6431962,Sub-Saharan Africa,Nigeria
+772,NGA,1998,0.6129096,Sub-Saharan Africa,Nigeria
+773,NGA,1999,0.49608332,Sub-Saharan Africa,Nigeria
+774,NGA,2000,0.65186423,Sub-Saharan Africa,Nigeria
+775,NGA,2004,0.6374706,Sub-Saharan Africa,Nigeria
+776,NGA,2005,0.6374706,Sub-Saharan Africa,Nigeria
+777,NGA,2006,0.6049759,Sub-Saharan Africa,Nigeria
+778,NGA,2007,0.5917224,Sub-Saharan Africa,Nigeria
+779,NGA,2019,0.6285427,Sub-Saharan Africa,Nigeria
+780,NGA,2020,0.5765928,Sub-Saharan Africa,Nigeria
+781,NER,1990,0.5868357,Sub-Saharan Africa,Niger
+782,NER,1991,0.6001086,Sub-Saharan Africa,Niger
+783,NER,1992,0.5326108,Sub-Saharan Africa,Niger
+784,NER,1995,0.6040564,Sub-Saharan Africa,Niger
+785,NER,1996,0.5864923,Sub-Saharan Africa,Niger
+786,NER,1997,0.60086983,Sub-Saharan Africa,Niger
+787,NER,1998,0.63530034,Sub-Saharan Africa,Niger
+788,NER,1999,0.5974572,Sub-Saharan Africa,Niger
+789,NER,2000,0.6183607,Sub-Saharan Africa,Niger
+790,NER,2001,0.58290404,Sub-Saharan Africa,Niger
+791,NER,2002,0.40962625,Sub-Saharan Africa,Niger
+792,NER,2019,0.5619021,Sub-Saharan Africa,Niger
+793,NER,2020,0.5525424,Sub-Saharan Africa,Niger
+794,NAM,1990,0.5041228,Sub-Saharan Africa,Namibia
+795,NAM,1991,0.4238714,Sub-Saharan Africa,Namibia
+796,NAM,1992,0.42580432,Sub-Saharan Africa,Namibia
+797,NAM,1993,0.4363653,Sub-Saharan Africa,Namibia
+798,NAM,1994,0.39802524,Sub-Saharan Africa,Namibia
+799,NAM,1995,0.42096996,Sub-Saharan Africa,Namibia
+800,NAM,1996,0.42096996,Sub-Saharan Africa,Namibia
+801,NAM,1997,0.4257934,Sub-Saharan Africa,Namibia
+802,NAM,1998,0.3947783,Sub-Saharan Africa,Namibia
+803,NAM,1999,0.3502267,Sub-Saharan Africa,Namibia
+804,NAM,2000,0.49550802,Sub-Saharan Africa,Namibia
+805,NAM,2004,0.3949174,Sub-Saharan Africa,Namibia
+806,NAM,2005,0.41155562,Sub-Saharan Africa,Namibia
+807,NAM,2010,0.36081016,Sub-Saharan Africa,Namibia
+808,NAM,2011,0.43648395,Sub-Saharan Africa,Namibia
+809,NAM,2016,0.44588426,Sub-Saharan Africa,Namibia
+810,NAM,2017,0.34729132,Sub-Saharan Africa,Namibia
+811,NAM,2018,0.42993867,Sub-Saharan Africa,Namibia
+812,NAM,2019,0.39147928,Sub-Saharan Africa,Namibia
+813,NAM,2020,0.48092967,Sub-Saharan Africa,Namibia
+814,MYS,1990,0.34008,East Asia & Pacific,Malaysia
+815,MYS,1991,0.32505107,East Asia & Pacific,Malaysia
+816,MYS,1992,0.37389535,East Asia & Pacific,Malaysia
+817,MYS,1998,0.14824924,East Asia & Pacific,Malaysia
+818,MYS,1999,0.123945065,East Asia & Pacific,Malaysia
+819,MYS,2019,0.326426,East Asia & Pacific,Malaysia
+820,MYS,2020,0.27632296,East Asia & Pacific,Malaysia
+821,MWI,1990,0.5665973,Sub-Saharan Africa,Malawi
+822,MWI,1991,0.6280684,Sub-Saharan Africa,Malawi
+823,MWI,1992,0.7055561,Sub-Saharan Africa,Malawi
+824,MWI,1993,0.5176819,Sub-Saharan Africa,Malawi
+825,MWI,1994,0.50732183,Sub-Saharan Africa,Malawi
+826,MWI,1995,0.53904456,Sub-Saharan Africa,Malawi
+827,MWI,1996,0.45519605,Sub-Saharan Africa,Malawi
+828,MWI,1997,0.3524557,Sub-Saharan Africa,Malawi
+829,MWI,1998,0.5968839,Sub-Saharan Africa,Malawi
+830,MWI,1999,0.65152746,Sub-Saharan Africa,Malawi
+831,MWI,2000,0.52930546,Sub-Saharan Africa,Malawi
+832,MWI,2001,0.8112581,Sub-Saharan Africa,Malawi
+833,MWI,2005,0.6316584,Sub-Saharan Africa,Malawi
+834,MWI,2006,0.61470044,Sub-Saharan Africa,Malawi
+835,MWI,2011,0.56349707,Sub-Saharan Africa,Malawi
+836,MWI,2012,0.58307564,Sub-Saharan Africa,Malawi
+837,MWI,2020,0.57204974,Sub-Saharan Africa,Malawi
+838,MUS,1990,0.6735065,Sub-Saharan Africa,Mauritius
+839,MUS,1991,0.6113992,Sub-Saharan Africa,Mauritius
+840,MUS,1992,0.60764307,Sub-Saharan Africa,Mauritius
+841,MUS,1993,0.60764307,Sub-Saharan Africa,Mauritius
+842,MUS,1994,0.6113992,Sub-Saharan Africa,Mauritius
+843,MUS,1995,0.6113992,Sub-Saharan Africa,Mauritius
+844,MUS,1996,0.60764307,Sub-Saharan Africa,Mauritius
+845,MUS,1997,0.60764307,Sub-Saharan Africa,Mauritius
+846,MUS,1998,0.6631702,Sub-Saharan Africa,Mauritius
+847,MUS,1999,0.6797409,Sub-Saharan Africa,Mauritius
+848,MUS,2000,0.5548196,Sub-Saharan Africa,Mauritius
+849,MUS,2001,0.6113992,Sub-Saharan Africa,Mauritius
+850,MUS,2002,0.6113992,Sub-Saharan Africa,Mauritius
+851,MUS,2003,0.60764307,Sub-Saharan Africa,Mauritius
+852,MUS,2004,0.6113992,Sub-Saharan Africa,Mauritius
+853,MUS,2005,0.6113992,Sub-Saharan Africa,Mauritius
+854,MUS,2006,0.58165276,Sub-Saharan Africa,Mauritius
+855,MUS,2007,0.6283886,Sub-Saharan Africa,Mauritius
+856,MUS,2008,0.5715859,Sub-Saharan Africa,Mauritius
+857,MUS,2013,0.54651046,Sub-Saharan Africa,Mauritius
+858,MUS,2018,0.5646709,Sub-Saharan Africa,Mauritius
+859,MUS,2019,0.61906415,Sub-Saharan Africa,Mauritius
+860,MUS,2020,0.56084085,Sub-Saharan Africa,Mauritius
+861,MRT,1990,0.57294494,Sub-Saharan Africa,Mauritania
+862,MRT,1991,0.5635788,Sub-Saharan Africa,Mauritania
+863,MRT,1992,0.54692894,Sub-Saharan Africa,Mauritania
+864,MRT,1993,0.62219244,Sub-Saharan Africa,Mauritania
+865,MRT,1996,0.61998916,Sub-Saharan Africa,Mauritania
+866,MRT,2009,0.574729,Sub-Saharan Africa,Mauritania
+867,MRT,2010,0.6201785,Sub-Saharan Africa,Mauritania
+868,MRT,2015,0.58895546,Sub-Saharan Africa,Mauritania
+869,MRT,2020,0.56994987,Sub-Saharan Africa,Mauritania
+870,MOZ,1990,0.63242775,Sub-Saharan Africa,Mozambique
+871,MOZ,1991,0.68811965,Sub-Saharan Africa,Mozambique
+872,MOZ,1992,0.6122457,Sub-Saharan Africa,Mozambique
+873,MOZ,1993,0.5388021,Sub-Saharan Africa,Mozambique
+874,MOZ,1994,0.64690286,Sub-Saharan Africa,Mozambique
+875,MOZ,1995,0.529615,Sub-Saharan Africa,Mozambique
+876,MOZ,1996,0.6179636,Sub-Saharan Africa,Mozambique
+877,MOZ,1997,0.66852033,Sub-Saharan Africa,Mozambique
+878,MOZ,1998,0.68287206,Sub-Saharan Africa,Mozambique
+879,MOZ,2003,0.64953446,Sub-Saharan Africa,Mozambique
+880,MOZ,2004,0.6191104,Sub-Saharan Africa,Mozambique
+881,MOZ,2009,0.63622427,Sub-Saharan Africa,Mozambique
+882,MOZ,2010,0.63473773,Sub-Saharan Africa,Mozambique
+883,MOZ,2015,0.5581708,Sub-Saharan Africa,Mozambique
+884,MOZ,2020,0.63644445,Sub-Saharan Africa,Mozambique
+885,MNG,1990,0.35177174,East Asia & Pacific,Mongolia
+886,MNG,1991,0.32648098,East Asia & Pacific,Mongolia
+887,MNG,1992,0.2332632,East Asia & Pacific,Mongolia
+888,MNG,1993,0.39099684,East Asia & Pacific,Mongolia
+889,MNG,1994,0.37823978,East Asia & Pacific,Mongolia
+890,MNG,1995,0.6527354,East Asia & Pacific,Mongolia
+891,MNG,2003,0.36302638,East Asia & Pacific,Mongolia
+892,MNG,2019,0.3839172,East Asia & Pacific,Mongolia
+893,MNG,2020,0.37656564,East Asia & Pacific,Mongolia
+894,MNE,1990,0.41101623,Europe & Central Asia,Montenegro
+895,MNE,1991,0.41101623,Europe & Central Asia,Montenegro
+896,MNE,1992,0.41101623,Europe & Central Asia,Montenegro
+897,MNE,1993,0.41101623,Europe & Central Asia,Montenegro
+898,MNE,1994,0.3914977,Europe & Central Asia,Montenegro
+899,MNE,1995,0.3914977,Europe & Central Asia,Montenegro
+900,MNE,1996,0.3914977,Europe & Central Asia,Montenegro
+901,MNE,1997,0.3914977,Europe & Central Asia,Montenegro
+902,MNE,1998,0.44509447,Europe & Central Asia,Montenegro
+903,MNE,1999,0.41620737,Europe & Central Asia,Montenegro
+904,MNE,2000,0.41101623,Europe & Central Asia,Montenegro
+905,MNE,2001,0.41101623,Europe & Central Asia,Montenegro
+906,MNE,2002,0.41101623,Europe & Central Asia,Montenegro
+907,MNE,2003,0.40052,Europe & Central Asia,Montenegro
+908,MNE,2004,0.40174937,Europe & Central Asia,Montenegro
+909,MNE,2005,0.45429826,Europe & Central Asia,Montenegro
+910,MMR,1990,0.32886443,East Asia & Pacific,Myanmar
+911,MMR,1991,0.34555018,East Asia & Pacific,Myanmar
+912,MMR,1992,0.3186827,East Asia & Pacific,Myanmar
+913,MMR,1993,0.3186827,East Asia & Pacific,Myanmar
+914,MMR,1994,0.3186827,East Asia & Pacific,Myanmar
+915,MMR,1995,0.3186827,East Asia & Pacific,Myanmar
+916,MMR,1996,0.29268655,East Asia & Pacific,Myanmar
+917,MMR,1997,0.44400916,East Asia & Pacific,Myanmar
+918,MMR,1998,0.27831498,East Asia & Pacific,Myanmar
+919,MMR,1999,0.45648617,East Asia & Pacific,Myanmar
+920,MMR,2000,0.3928174,East Asia & Pacific,Myanmar
+921,MMR,2001,0.38058156,East Asia & Pacific,Myanmar
+922,MMR,2002,0.40425095,East Asia & Pacific,Myanmar
+923,MMR,2003,0.45280015,East Asia & Pacific,Myanmar
+924,MMR,2004,0.3928174,East Asia & Pacific,Myanmar
+925,MMR,2005,0.24059477,East Asia & Pacific,Myanmar
+926,MMR,2006,0.34555462,East Asia & Pacific,Myanmar
+927,MMR,2007,0.31232032,East Asia & Pacific,Myanmar
+928,MMR,2008,0.35206252,East Asia & Pacific,Myanmar
+929,MMR,2009,0.34644142,East Asia & Pacific,Myanmar
+930,MMR,2010,0.3863995,East Asia & Pacific,Myanmar
+931,MMR,2011,0.42110923,East Asia & Pacific,Myanmar
+932,MMR,2012,0.40506908,East Asia & Pacific,Myanmar
+933,MMR,2013,0.40342906,East Asia & Pacific,Myanmar
+934,MMR,2014,0.38514897,East Asia & Pacific,Myanmar
+935,MMR,2015,0.57190216,East Asia & Pacific,Myanmar
+936,MMR,2018,0.28075308,East Asia & Pacific,Myanmar
+937,MMR,2019,0.33773866,East Asia & Pacific,Myanmar
+938,MMR,2020,0.2690854,East Asia & Pacific,Myanmar
+939,MLT,1990,0.3479135,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+940,MLT,1991,0.34704903,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+941,MLT,1992,0.14648132,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+942,MLT,1993,0.117141604,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+943,MLT,1994,0.11769092,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+944,MLT,1995,0.10419579,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+945,MLT,1996,0.30975795,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+946,MLT,1997,0.28698522,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+947,MLT,1998,0.3395254,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+948,MLT,1999,0.30543953,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+949,MLT,2000,0.11902476,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+950,MLT,2001,0.38580757,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+951,MLT,2002,0.4397402,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+952,MLT,2003,0.4357694,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+953,MLT,2004,0.31432974,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+954,MLT,2005,0.41046932,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+955,MLT,2006,0.13429826,"Middle East, North Africa, Afghanistan & Pakistan",Malta
+956,MLI,1990,0.41096044,Sub-Saharan Africa,Mali
+957,MLI,1991,0.52499586,Sub-Saharan Africa,Mali
+958,MLI,1992,0.4643443,Sub-Saharan Africa,Mali
+959,MLI,1993,0.43541473,Sub-Saharan Africa,Mali
+960,MLI,1994,0.43978062,Sub-Saharan Africa,Mali
+961,MLI,1995,0.56524676,Sub-Saharan Africa,Mali
+962,MLI,1996,0.5928937,Sub-Saharan Africa,Mali
+963,MLI,1997,0.34643787,Sub-Saharan Africa,Mali
+964,MLI,1998,0.771646,Sub-Saharan Africa,Mali
+965,MLI,2002,0.611417,Sub-Saharan Africa,Mali
+966,MLI,2010,0.596718,Sub-Saharan Africa,Mali
+967,MLI,2011,0.5935029,Sub-Saharan Africa,Mali
+968,MLI,2012,0.6214847,Sub-Saharan Africa,Mali
+969,MLI,2013,0.56695575,Sub-Saharan Africa,Mali
+970,MLI,2014,0.5772209,Sub-Saharan Africa,Mali
+971,MLI,2015,0.38016093,Sub-Saharan Africa,Mali
+972,MLI,2019,0.6157006,Sub-Saharan Africa,Mali
+973,MLI,2020,0.5753998,Sub-Saharan Africa,Mali
+974,MKD,1990,0.38905093,Europe & Central Asia,North Macedonia
+975,MKD,1991,0.32977793,Europe & Central Asia,North Macedonia
+976,MKD,1992,0.39944685,Europe & Central Asia,North Macedonia
+977,MKD,1993,0.27693865,Europe & Central Asia,North Macedonia
+978,MKD,1994,0.27843037,Europe & Central Asia,North Macedonia
+979,MKD,1995,0.2919398,Europe & Central Asia,North Macedonia
+980,MKD,1996,0.2933093,Europe & Central Asia,North Macedonia
+981,MKD,1997,0.4223324,Europe & Central Asia,North Macedonia
+982,MKD,1998,0.42379522,Europe & Central Asia,North Macedonia
+983,MKD,2020,0.53546673,Europe & Central Asia,North Macedonia
+984,MEX,1990,0.55139697,Latin America & Caribbean,Mexico
+985,MEX,1991,0.52958703,Latin America & Caribbean,Mexico
+986,MEX,1992,0.37996048,Latin America & Caribbean,Mexico
+987,MDV,1990,0.46552625,South Asia,Maldives
+988,MDV,1991,0.48099998,South Asia,Maldives
+989,MDV,1992,0.5962639,South Asia,Maldives
+990,MDV,1993,0.49386713,South Asia,Maldives
+991,MDV,1994,0.5123492,South Asia,Maldives
+992,MDV,1995,0.47597057,South Asia,Maldives
+993,MDV,1996,0.4141565,South Asia,Maldives
+994,MDV,1997,0.41146654,South Asia,Maldives
+995,MDV,1998,0.3597201,South Asia,Maldives
+996,MDV,1999,0.27665523,South Asia,Maldives
+997,MDV,2000,0.24886477,South Asia,Maldives
+998,MDV,2001,0.21205026,South Asia,Maldives
+999,MDV,2002,0.2520339,South Asia,Maldives
+1000,MDV,2003,0.43862742,South Asia,Maldives
+1001,MDV,2004,0.21971242,South Asia,Maldives
+1002,MDV,2005,0.31630152,South Asia,Maldives
+1003,MDV,2006,0.37512323,South Asia,Maldives
+1004,MDV,2010,0.31388357,South Asia,Maldives
+1005,MDV,2011,0.36520562,South Asia,Maldives
+1006,MDV,2012,0.33424386,South Asia,Maldives
+1007,MDV,2013,0.542104,South Asia,Maldives
+1008,MDV,2020,0.2617464,South Asia,Maldives
+1009,MDG,1990,0.5999902,Sub-Saharan Africa,Madagascar
+1010,MDG,1991,0.53577715,Sub-Saharan Africa,Madagascar
+1011,MDG,1992,0.525307,Sub-Saharan Africa,Madagascar
+1012,MDG,1993,0.7276887,Sub-Saharan Africa,Madagascar
+1013,MDG,2006,0.5189498,Sub-Saharan Africa,Madagascar
+1014,MDG,2013,0.5320648,Sub-Saharan Africa,Madagascar
+1015,MDG,2014,0.5320648,Sub-Saharan Africa,Madagascar
+1016,MDG,2015,0.5320648,Sub-Saharan Africa,Madagascar
+1017,MDG,2016,0.5320648,Sub-Saharan Africa,Madagascar
+1018,MDG,2017,0.5320648,Sub-Saharan Africa,Madagascar
+1019,MDG,2018,0.55132765,Sub-Saharan Africa,Madagascar
+1020,MDG,2019,0.6177324,Sub-Saharan Africa,Madagascar
+1021,MDG,2020,0.52070147,Sub-Saharan Africa,Madagascar
+1022,MDA,1990,0.55271333,Europe & Central Asia,Moldova
+1023,MDA,1991,0.5850305,Europe & Central Asia,Moldova
+1024,MDA,1992,0.53779805,Europe & Central Asia,Moldova
+1025,MDA,1993,0.5092858,Europe & Central Asia,Moldova
+1026,MDA,1994,0.61758804,Europe & Central Asia,Moldova
+1027,MDA,1995,0.56695664,Europe & Central Asia,Moldova
+1028,MDA,1996,0.6316724,Europe & Central Asia,Moldova
+1029,MDA,1997,0.46640307,Europe & Central Asia,Moldova
+1030,MAR,1990,0.30964562,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1031,MAR,1991,0.31192455,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1032,MAR,1992,0.28035387,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1033,MAR,1993,0.41160488,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1034,MAR,1994,0.23375218,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1035,MAR,1995,0.27990332,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1036,MAR,2001,0.25132632,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1037,MAR,2002,0.19158502,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1038,MAR,2007,0.2079963,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1039,MAR,2008,0.23345381,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1040,MAR,2009,0.18920346,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1041,MAR,2010,0.1962693,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1042,MAR,2014,0.20264445,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1043,MAR,2015,0.2033376,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1044,MAR,2016,0.20264445,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1045,MAR,2017,0.20418215,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1046,MAR,2018,0.22134404,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1047,MAR,2019,0.2262594,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1048,MAR,2020,0.21263136,"Middle East, North Africa, Afghanistan & Pakistan",Morocco
+1049,LVA,1990,0.5541521,Europe & Central Asia,Latvia
+1050,LVA,1991,0.58891875,Europe & Central Asia,Latvia
+1051,LVA,1992,0.40075892,Europe & Central Asia,Latvia
+1052,LVA,1993,0.4632996,Europe & Central Asia,Latvia
+1053,LUX,1990,0.18419336,Europe & Central Asia,Luxembourg
+1054,LTU,1990,0.60565156,Europe & Central Asia,Lithuania
+1055,LTU,1991,0.59537256,Europe & Central Asia,Lithuania
+1056,LTU,1992,0.5419397,Europe & Central Asia,Lithuania
+1057,LTU,1993,0.60558635,Europe & Central Asia,Lithuania
+1058,LSO,1990,0.39147136,Sub-Saharan Africa,Lesotho
+1059,LSO,1991,0.43836027,Sub-Saharan Africa,Lesotho
+1060,LSO,1992,0.44453144,Sub-Saharan Africa,Lesotho
+1061,LSO,1993,0.35508975,Sub-Saharan Africa,Lesotho
+1062,LSO,1994,0.37967846,Sub-Saharan Africa,Lesotho
+1063,LSO,1995,0.6413578,Sub-Saharan Africa,Lesotho
+1064,LSO,1996,0.6287485,Sub-Saharan Africa,Lesotho
+1065,LSO,1997,0.6324247,Sub-Saharan Africa,Lesotho
+1066,LSO,1998,0.6505634,Sub-Saharan Africa,Lesotho
+1067,LSO,1999,0.7929236,Sub-Saharan Africa,Lesotho
+1068,LSO,2003,0.6709083,Sub-Saharan Africa,Lesotho
+1069,LSO,2004,0.65653664,Sub-Saharan Africa,Lesotho
+1070,LSO,2005,0.60294783,Sub-Saharan Africa,Lesotho
+1071,LSO,2006,0.5702021,Sub-Saharan Africa,Lesotho
+1072,LSO,2007,0.591376,Sub-Saharan Africa,Lesotho
+1073,LSO,2008,0.48892167,Sub-Saharan Africa,Lesotho
+1074,LSO,2009,0.6674119,Sub-Saharan Africa,Lesotho
+1075,LSO,2010,0.6709083,Sub-Saharan Africa,Lesotho
+1076,LSO,2011,0.68296844,Sub-Saharan Africa,Lesotho
+1077,LSO,2012,0.64073455,Sub-Saharan Africa,Lesotho
+1078,LSO,2013,0.6755368,Sub-Saharan Africa,Lesotho
+1079,LSO,2014,0.615107,Sub-Saharan Africa,Lesotho
+1080,LSO,2018,0.61743265,Sub-Saharan Africa,Lesotho
+1081,LSO,2019,0.4907107,Sub-Saharan Africa,Lesotho
+1082,LSO,2020,0.57598853,Sub-Saharan Africa,Lesotho
+1083,LKA,1990,0.26497188,South Asia,Sri Lanka
+1084,LKA,1991,0.26795188,South Asia,Sri Lanka
+1085,LKA,1996,0.2729765,South Asia,Sri Lanka
+1086,LKA,1997,0.25755438,South Asia,Sri Lanka
+1087,LKA,1998,0.24044415,South Asia,Sri Lanka
+1088,LKA,1999,0.26017597,South Asia,Sri Lanka
+1089,LKA,2020,0.23681043,South Asia,Sri Lanka
+1090,LCA,1990,0.5493055,Latin America & Caribbean,St. Lucia
+1091,LCA,1991,0.5346863,Latin America & Caribbean,St. Lucia
+1092,LCA,1992,0.55852616,Latin America & Caribbean,St. Lucia
+1093,LCA,1993,0.41734242,Latin America & Caribbean,St. Lucia
+1094,LCA,1994,0.41108972,Latin America & Caribbean,St. Lucia
+1095,LCA,1995,0.5193758,Latin America & Caribbean,St. Lucia
+1096,LCA,1996,0.37914664,Latin America & Caribbean,St. Lucia
+1097,LCA,1997,0.44192016,Latin America & Caribbean,St. Lucia
+1098,LCA,1998,0.4596365,Latin America & Caribbean,St. Lucia
+1099,LCA,1999,0.42364252,Latin America & Caribbean,St. Lucia
+1100,LCA,2000,0.28770915,Latin America & Caribbean,St. Lucia
+1101,LCA,2001,0.263717,Latin America & Caribbean,St. Lucia
+1102,LCA,2002,0.36174515,Latin America & Caribbean,St. Lucia
+1103,LCA,2003,0.33000267,Latin America & Caribbean,St. Lucia
+1104,LCA,2004,0.35509554,Latin America & Caribbean,St. Lucia
+1105,LCA,2005,0.44089642,Latin America & Caribbean,St. Lucia
+1106,LCA,2006,0.45631066,Latin America & Caribbean,St. Lucia
+1107,LCA,2007,0.57685775,Latin America & Caribbean,St. Lucia
+1108,LCA,2008,0.48398712,Latin America & Caribbean,St. Lucia
+1109,LCA,2009,0.42136252,Latin America & Caribbean,St. Lucia
+1110,LCA,2010,0.32821587,Latin America & Caribbean,St. Lucia
+1111,LCA,2011,0.4046471,Latin America & Caribbean,St. Lucia
+1112,LCA,2012,0.22390959,Latin America & Caribbean,St. Lucia
+1113,LCA,2016,0.30595684,Latin America & Caribbean,St. Lucia
+1114,LCA,2017,0.30595684,Latin America & Caribbean,St. Lucia
+1115,LCA,2018,0.3953381,Latin America & Caribbean,St. Lucia
+1116,LCA,2019,0.46553075,Latin America & Caribbean,St. Lucia
+1117,LCA,2020,0.48190072,Latin America & Caribbean,St. Lucia
+1118,LBN,1990,0.27771667,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1119,LBN,1991,0.29740804,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1120,LBN,1992,0.29171333,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1121,LBN,1993,0.19863273,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1122,LBN,1994,0.19584802,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1123,LBN,1995,0.21765642,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1124,LBN,1996,0.25682345,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1125,LBN,1997,0.20963249,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1126,LBN,1998,0.24925286,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1127,LBN,1999,0.21445084,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1128,LBN,2000,0.20963249,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1129,LBN,2001,0.20963249,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1130,LBN,2002,0.20624435,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1131,LBN,2003,0.20956197,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1132,LBN,2004,0.24569555,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1133,LBN,2005,0.19608231,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1134,LBN,2006,0.22819152,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1135,LBN,2007,0.30097687,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1136,LBN,2008,0.3239287,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1137,LBN,2009,0.36880323,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1138,LBN,2010,0.41271332,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1139,LBN,2011,0.30343705,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1140,LBN,2012,0.2979833,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1141,LBN,2013,0.26699504,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1142,LBN,2014,0.2852424,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1143,LBN,2015,0.2968878,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1144,LBN,2016,0.31117266,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1145,LBN,2017,0.29763755,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1146,LBN,2018,0.3001635,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1147,LBN,2019,0.26676744,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1148,LBN,2020,0.32611737,"Middle East, North Africa, Afghanistan & Pakistan",Lebanon
+1149,LAO,1990,0.20915629,East Asia & Pacific,Lao PDR
+1150,LAO,1991,0.21387188,East Asia & Pacific,Lao PDR
+1151,LAO,1992,0.1891281,East Asia & Pacific,Lao PDR
+1152,LAO,1993,0.17957446,East Asia & Pacific,Lao PDR
+1153,LAO,1998,0.20815364,East Asia & Pacific,Lao PDR
+1154,LAO,2003,0.19672291,East Asia & Pacific,Lao PDR
+1155,LAO,2008,0.34511065,East Asia & Pacific,Lao PDR
+1156,LAO,2013,0.35966253,East Asia & Pacific,Lao PDR
+1157,LAO,2014,0.2712353,East Asia & Pacific,Lao PDR
+1158,LAO,2019,0.23548323,East Asia & Pacific,Lao PDR
+1159,LAO,2020,0.22681835,East Asia & Pacific,Lao PDR
+1160,KOR,1990,0.3124405,East Asia & Pacific,"Korea, Rep."
+1161,KOR,1991,0.28294995,East Asia & Pacific,"Korea, Rep."
+1162,KOR,1992,0.31093428,East Asia & Pacific,"Korea, Rep."
+1163,KOR,1993,0.26048815,East Asia & Pacific,"Korea, Rep."
+1164,KOR,1994,0.2618429,East Asia & Pacific,"Korea, Rep."
+1165,KOR,1995,0.33945248,East Asia & Pacific,"Korea, Rep."
+1166,KOR,1996,0.38759333,East Asia & Pacific,"Korea, Rep."
+1167,KOR,1997,0.36868584,East Asia & Pacific,"Korea, Rep."
+1168,KOR,1998,0.28767005,East Asia & Pacific,"Korea, Rep."
+1169,KOR,1999,0.31078213,East Asia & Pacific,"Korea, Rep."
+1170,KOR,2000,0.33084193,East Asia & Pacific,"Korea, Rep."
+1171,KOR,2001,0.35181755,East Asia & Pacific,"Korea, Rep."
+1172,KOR,2002,0.2909631,East Asia & Pacific,"Korea, Rep."
+1173,KOR,2003,0.20894511,East Asia & Pacific,"Korea, Rep."
+1174,KOR,2004,0.2837596,East Asia & Pacific,"Korea, Rep."
+1175,KOR,2005,0.26740593,East Asia & Pacific,"Korea, Rep."
+1176,KOR,2006,0.1974649,East Asia & Pacific,"Korea, Rep."
+1177,KGZ,1990,0.6355175,Europe & Central Asia,Kyrgyz Republic
+1178,KGZ,1991,0.6158502,Europe & Central Asia,Kyrgyz Republic
+1179,KGZ,1992,0.64320236,Europe & Central Asia,Kyrgyz Republic
+1180,KGZ,1993,0.63999605,Europe & Central Asia,Kyrgyz Republic
+1181,KGZ,1994,0.612889,Europe & Central Asia,Kyrgyz Republic
+1182,KGZ,1995,0.64639854,Europe & Central Asia,Kyrgyz Republic
+1183,KGZ,1996,0.6303541,Europe & Central Asia,Kyrgyz Republic
+1184,KGZ,1997,0.66215485,Europe & Central Asia,Kyrgyz Republic
+1185,KGZ,1998,0.80749243,Europe & Central Asia,Kyrgyz Republic
+1186,KEN,1990,0.53857774,Sub-Saharan Africa,Kenya
+1187,KEN,1991,0.5247061,Sub-Saharan Africa,Kenya
+1188,KEN,1992,0.69169664,Sub-Saharan Africa,Kenya
+1189,KEN,1998,0.6038341,Sub-Saharan Africa,Kenya
+1190,KEN,1999,0.6023924,Sub-Saharan Africa,Kenya
+1191,KEN,2000,0.6205488,Sub-Saharan Africa,Kenya
+1192,KEN,2001,0.6181933,Sub-Saharan Africa,Kenya
+1193,KEN,2002,0.46339965,Sub-Saharan Africa,Kenya
+1194,KEN,2006,0.61119026,Sub-Saharan Africa,Kenya
+1195,KEN,2007,0.66673124,Sub-Saharan Africa,Kenya
+1196,KEN,2008,0.60518044,Sub-Saharan Africa,Kenya
+1197,KEN,2009,0.61694884,Sub-Saharan Africa,Kenya
+1198,KEN,2010,0.61321247,Sub-Saharan Africa,Kenya
+1199,KEN,2011,0.61243904,Sub-Saharan Africa,Kenya
+1200,KEN,2012,0.6013139,Sub-Saharan Africa,Kenya
+1201,KEN,2016,0.5542202,Sub-Saharan Africa,Kenya
+1202,KAZ,1990,0.58566576,Europe & Central Asia,Kazakhstan
+1203,KAZ,1991,0.5752497,Europe & Central Asia,Kazakhstan
+1204,KAZ,1992,0.5486727,Europe & Central Asia,Kazakhstan
+1205,KAZ,1993,0.34461594,Europe & Central Asia,Kazakhstan
+1206,KAZ,1997,0.6109613,Europe & Central Asia,Kazakhstan
+1207,JPN,1990,0.13272902,East Asia & Pacific,Japan
+1208,JPN,1991,0.12791513,East Asia & Pacific,Japan
+1209,JPN,1992,0.09956225,East Asia & Pacific,Japan
+1210,JPN,1993,0.09956225,East Asia & Pacific,Japan
+1211,JPN,1994,0.10420474,East Asia & Pacific,Japan
+1212,JPN,1995,0.10420474,East Asia & Pacific,Japan
+1213,JPN,1996,0.102735065,East Asia & Pacific,Japan
+1214,JPN,1997,0.10421215,East Asia & Pacific,Japan
+1215,JPN,1998,0.102735065,East Asia & Pacific,Japan
+1216,JPN,1999,0.10420474,East Asia & Pacific,Japan
+1217,JPN,2000,0.102735065,East Asia & Pacific,Japan
+1218,JPN,2001,0.11164946,East Asia & Pacific,Japan
+1219,JPN,2002,0.093712665,East Asia & Pacific,Japan
+1220,JPN,2003,0.09506694,East Asia & Pacific,Japan
+1221,JPN,2004,0.08246285,East Asia & Pacific,Japan
+1222,JPN,2005,0.08674495,East Asia & Pacific,Japan
+1223,JPN,2006,0.08674495,East Asia & Pacific,Japan
+1224,JPN,2007,0.08674495,East Asia & Pacific,Japan
+1225,JPN,2008,0.097601674,East Asia & Pacific,Japan
+1226,JOR,1990,0.3324875,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1227,JOR,1991,0.37510264,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1228,JOR,1992,0.285375,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1229,JOR,1993,0.39917347,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1230,JOR,1998,0.29922062,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1231,JOR,2011,0.37429234,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1232,JOR,2012,0.40954432,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1233,JOR,2013,0.36984998,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1234,JOR,2014,0.2572837,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1235,JOR,2015,0.2810802,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1236,JOR,2016,0.3241871,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1237,JOR,2017,0.2298485,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1238,JOR,2018,0.2931657,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1239,JOR,2019,0.25191396,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1240,JOR,2020,0.27469906,"Middle East, North Africa, Afghanistan & Pakistan",Jordan
+1241,JAM,1990,0.69642925,Latin America & Caribbean,Jamaica
+1242,JAM,2005,0.60843414,Latin America & Caribbean,Jamaica
+1243,JAM,2006,0.5972696,Latin America & Caribbean,Jamaica
+1244,JAM,2007,0.57520324,Latin America & Caribbean,Jamaica
+1245,JAM,2008,0.5928595,Latin America & Caribbean,Jamaica
+1246,JAM,2009,0.5972696,Latin America & Caribbean,Jamaica
+1247,JAM,2010,0.58119,Latin America & Caribbean,Jamaica
+1248,JAM,2011,0.5394004,Latin America & Caribbean,Jamaica
+1249,JAM,2012,0.5293671,Latin America & Caribbean,Jamaica
+1250,JAM,2013,0.5465738,Latin America & Caribbean,Jamaica
+1251,JAM,2014,0.5978739,Latin America & Caribbean,Jamaica
+1252,JAM,2015,0.6384779,Latin America & Caribbean,Jamaica
+1253,JAM,2019,0.6222381,Latin America & Caribbean,Jamaica
+1254,JAM,2020,0.5703428,Latin America & Caribbean,Jamaica
+1255,ITA,1990,0.33830458,Europe & Central Asia,Italy
+1256,ITA,1991,0.3145885,Europe & Central Asia,Italy
+1257,ISR,1990,0.4033255,"Middle East, North Africa, Afghanistan & Pakistan",Israel
+1258,ISR,1991,0.36503983,"Middle East, North Africa, Afghanistan & Pakistan",Israel
+1259,ISR,1992,0.39822975,"Middle East, North Africa, Afghanistan & Pakistan",Israel
+1260,ISR,1993,0.2779748,"Middle East, North Africa, Afghanistan & Pakistan",Israel
+1261,ISL,1990,0.4393522,Europe & Central Asia,Iceland
+1262,ISL,1991,0.33053538,Europe & Central Asia,Iceland
+1263,ISL,1992,0.35020408,Europe & Central Asia,Iceland
+1264,ISL,1993,0.333583,Europe & Central Asia,Iceland
+1265,ISL,1994,0.29505867,Europe & Central Asia,Iceland
+1266,ISL,1995,0.30968824,Europe & Central Asia,Iceland
+1267,ISL,1996,0.40109208,Europe & Central Asia,Iceland
+1268,ISL,1997,0.4264877,Europe & Central Asia,Iceland
+1269,ISL,1998,0.44981456,Europe & Central Asia,Iceland
+1270,ISL,1999,0.44451725,Europe & Central Asia,Iceland
+1271,ISL,2000,0.3963317,Europe & Central Asia,Iceland
+1272,ISL,2001,0.36240816,Europe & Central Asia,Iceland
+1273,ISL,2002,0.63908774,Europe & Central Asia,Iceland
+1274,ISL,2003,0.35377407,Europe & Central Asia,Iceland
+1275,ISL,2020,0.39454028,Europe & Central Asia,Iceland
+1276,IRQ,1990,0.3003428,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1277,IRQ,1991,0.27546194,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1278,IRQ,1992,0.28964126,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1279,IRQ,1993,0.28370643,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1280,IRQ,1994,0.26005706,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1281,IRQ,1995,0.31713995,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1282,IRQ,1996,0.26281852,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1283,IRQ,1997,0.42516154,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1284,IRQ,1998,0.43178517,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1285,IRQ,1999,0.37132785,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1286,IRQ,2000,0.42103264,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1287,IRQ,2001,0.45021686,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1288,IRQ,2002,0.41975564,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1289,IRQ,2003,0.39534342,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1290,IRQ,2004,0.3919164,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1291,IRQ,2005,0.3525895,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1292,IRQ,2006,0.37599313,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1293,IRQ,2007,0.32127342,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1294,IRQ,2008,0.37707952,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1295,IRQ,2013,0.27061483,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1296,IRQ,2014,0.23497741,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1297,IRQ,2015,0.28050673,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1298,IRQ,2016,0.30327561,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1299,IRQ,2017,0.28268412,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1300,IRQ,2018,0.36115324,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1301,IRQ,2019,0.43548283,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1302,IRQ,2020,0.37117445,"Middle East, North Africa, Afghanistan & Pakistan",Iraq
+1303,IRN,1990,0.2833437,"Middle East, North Africa, Afghanistan & Pakistan","Iran, Islamic Rep."
+1304,IRN,1999,0.26567343,"Middle East, North Africa, Afghanistan & Pakistan","Iran, Islamic Rep."
+1305,IRN,2000,0.25686175,"Middle East, North Africa, Afghanistan & Pakistan","Iran, Islamic Rep."
+1306,IRN,2001,0.28389037,"Middle East, North Africa, Afghanistan & Pakistan","Iran, Islamic Rep."
+1307,IRN,2002,0.23124473,"Middle East, North Africa, Afghanistan & Pakistan","Iran, Islamic Rep."
+1308,IRL,1990,0.552067,Europe & Central Asia,Ireland
+1309,IRL,1991,0.4689729,Europe & Central Asia,Ireland
+1310,IRL,1992,0.2634459,Europe & Central Asia,Ireland
+1311,IRL,1993,0.26562598,Europe & Central Asia,Ireland
+1312,IRL,1994,0.253737,Europe & Central Asia,Ireland
+1313,IND,1990,0.30612457,South Asia,India
+1314,IND,1991,0.31086093,South Asia,India
+1315,IND,1992,0.29765022,South Asia,India
+1316,IND,1993,0.30463403,South Asia,India
+1317,IND,1994,0.28626543,South Asia,India
+1318,IND,1995,0.26793614,South Asia,India
+1319,IND,1996,0.28626543,South Asia,India
+1320,IND,1997,0.28950074,South Asia,India
+1321,IND,1998,0.28626543,South Asia,India
+1322,IND,1999,0.30262452,South Asia,India
+1323,IND,2000,0.3091315,South Asia,India
+1324,IND,2001,0.20604865,South Asia,India
+1325,IND,2005,0.31439635,South Asia,India
+1326,IND,2012,0.29290384,South Asia,India
+1327,IND,2013,0.29290384,South Asia,India
+1328,IND,2014,0.28733137,South Asia,India
+1329,IND,2015,0.28810972,South Asia,India
+1330,IND,2016,0.28810972,South Asia,India
+1331,IND,2017,0.28810972,South Asia,India
+1332,IND,2018,0.29751387,South Asia,India
+1333,IND,2019,0.3332879,South Asia,India
+1334,IND,2020,0.254152,South Asia,India
+1335,IDN,1990,0.18912046,East Asia & Pacific,Indonesia
+1336,HUN,1990,0.4932608,Europe & Central Asia,Hungary
+1337,HUN,1991,0.5111886,Europe & Central Asia,Hungary
+1338,HUN,2018,0.69192296,Europe & Central Asia,Hungary
+1339,HUN,2019,0.65275735,Europe & Central Asia,Hungary
+1340,HUN,2020,0.6678493,Europe & Central Asia,Hungary
+1341,HTI,1990,0.59312826,Latin America & Caribbean,Haiti
+1342,HTI,1991,0.62482786,Latin America & Caribbean,Haiti
+1343,HTI,1992,0.5699175,Latin America & Caribbean,Haiti
+1344,HTI,1993,0.5897111,Latin America & Caribbean,Haiti
+1345,HTI,1994,0.58588463,Latin America & Caribbean,Haiti
+1346,HTI,1995,0.65675896,Latin America & Caribbean,Haiti
+1347,HTI,1996,0.61256844,Latin America & Caribbean,Haiti
+1348,HTI,1997,0.58714336,Latin America & Caribbean,Haiti
+1349,HTI,1998,0.48305446,Latin America & Caribbean,Haiti
+1350,HTI,1999,0.44274846,Latin America & Caribbean,Haiti
+1351,HTI,2000,0.3700605,Latin America & Caribbean,Haiti
+1352,HTI,2001,0.34560177,Latin America & Caribbean,Haiti
+1353,HTI,2002,0.47028548,Latin America & Caribbean,Haiti
+1354,HTI,2003,0.41823065,Latin America & Caribbean,Haiti
+1355,HTI,2004,0.4616731,Latin America & Caribbean,Haiti
+1356,HTI,2005,0.41032323,Latin America & Caribbean,Haiti
+1357,HTI,2006,0.40822738,Latin America & Caribbean,Haiti
+1358,HTI,2007,0.45724496,Latin America & Caribbean,Haiti
+1359,HTI,2008,0.4188646,Latin America & Caribbean,Haiti
+1360,HTI,2009,0.7095442,Latin America & Caribbean,Haiti
+1361,HTI,2013,0.51631975,Latin America & Caribbean,Haiti
+1362,HTI,2014,0.4892605,Latin America & Caribbean,Haiti
+1363,HTI,2015,0.46642753,Latin America & Caribbean,Haiti
+1364,HTI,2016,0.46642753,Latin America & Caribbean,Haiti
+1365,HTI,2017,0.46642753,Latin America & Caribbean,Haiti
+1366,HTI,2018,0.47878903,Latin America & Caribbean,Haiti
+1367,HTI,2019,0.42217904,Latin America & Caribbean,Haiti
+1368,HTI,2020,0.5948613,Latin America & Caribbean,Haiti
+1369,HRV,1990,0.4407677,Europe & Central Asia,Croatia
+1370,HRV,1991,0.46661592,Europe & Central Asia,Croatia
+1371,HRV,1992,0.4218246,Europe & Central Asia,Croatia
+1372,HRV,1993,0.42884,Europe & Central Asia,Croatia
+1373,HRV,1994,0.33573392,Europe & Central Asia,Croatia
+1374,HRV,1995,0.41624823,Europe & Central Asia,Croatia
+1375,HRV,1996,0.51156574,Europe & Central Asia,Croatia
+1376,HRV,1997,0.4444567,Europe & Central Asia,Croatia
+1377,HRV,1998,0.47879615,Europe & Central Asia,Croatia
+1378,HND,1990,0.6684785,Latin America & Caribbean,Honduras
+1379,HND,2020,0.5793184,Latin America & Caribbean,Honduras
+1380,GUY,1990,0.5907738,Latin America & Caribbean,Guyana
+1381,GUY,1991,0.27841696,Latin America & Caribbean,Guyana
+1382,GUY,1992,0.3302176,Latin America & Caribbean,Guyana
+1383,GUY,1993,0.34176004,Latin America & Caribbean,Guyana
+1384,GUY,1994,0.4889048,Latin America & Caribbean,Guyana
+1385,GUY,1999,0.35755715,Latin America & Caribbean,Guyana
+1386,GUY,2000,0.32494834,Latin America & Caribbean,Guyana
+1387,GUY,2001,0.33295935,Latin America & Caribbean,Guyana
+1388,GUY,2002,0.33295935,Latin America & Caribbean,Guyana
+1389,GUY,2003,0.33295935,Latin America & Caribbean,Guyana
+1390,GUY,2004,0.37146032,Latin America & Caribbean,Guyana
+1391,GUY,2005,0.33295935,Latin America & Caribbean,Guyana
+1392,GUY,2006,0.32351384,Latin America & Caribbean,Guyana
+1393,GUY,2007,0.5475564,Latin America & Caribbean,Guyana
+1394,GUY,2008,0.32494834,Latin America & Caribbean,Guyana
+1395,GUY,2009,0.26834553,Latin America & Caribbean,Guyana
+1396,GUY,2010,0.29023176,Latin America & Caribbean,Guyana
+1397,GUY,2011,0.2691766,Latin America & Caribbean,Guyana
+1398,GUY,2012,0.22339801,Latin America & Caribbean,Guyana
+1399,GUY,2013,0.2217559,Latin America & Caribbean,Guyana
+1400,GUY,2014,0.2217559,Latin America & Caribbean,Guyana
+1401,GUY,2015,0.2217559,Latin America & Caribbean,Guyana
+1402,GUY,2016,0.2217559,Latin America & Caribbean,Guyana
+1403,GUY,2017,0.21923864,Latin America & Caribbean,Guyana
+1404,GUY,2018,0.28476053,Latin America & Caribbean,Guyana
+1405,GUY,2019,0.19528586,Latin America & Caribbean,Guyana
+1406,GUY,2020,0.28978276,Latin America & Caribbean,Guyana
+1407,GTM,1990,0.5590415,Latin America & Caribbean,Guatemala
+1408,GTM,1991,0.5598987,Latin America & Caribbean,Guatemala
+1409,GTM,1992,0.5342244,Latin America & Caribbean,Guatemala
+1410,GTM,1993,0.53814906,Latin America & Caribbean,Guatemala
+1411,GTM,1994,0.53814906,Latin America & Caribbean,Guatemala
+1412,GTM,1995,0.56167835,Latin America & Caribbean,Guatemala
+1413,GTM,1996,0.5919482,Latin America & Caribbean,Guatemala
+1414,GTM,1997,0.57984364,Latin America & Caribbean,Guatemala
+1415,GTM,1998,0.4955541,Latin America & Caribbean,Guatemala
+1416,GTM,2001,0.6014856,Latin America & Caribbean,Guatemala
+1417,GTM,2002,0.46465272,Latin America & Caribbean,Guatemala
+1418,GTM,2007,0.54890513,Latin America & Caribbean,Guatemala
+1419,GTM,2008,0.53053457,Latin America & Caribbean,Guatemala
+1420,GTM,2009,0.58154756,Latin America & Caribbean,Guatemala
+1421,GTM,2010,0.56859416,Latin America & Caribbean,Guatemala
+1422,GTM,2011,0.6771205,Latin America & Caribbean,Guatemala
+1423,GTM,2015,0.55358005,Latin America & Caribbean,Guatemala
+1424,GTM,2016,0.5543506,Latin America & Caribbean,Guatemala
+1425,GTM,2017,0.5772713,Latin America & Caribbean,Guatemala
+1426,GTM,2018,0.5734316,Latin America & Caribbean,Guatemala
+1427,GTM,2019,0.63870865,Latin America & Caribbean,Guatemala
+1428,GTM,2020,0.56305104,Latin America & Caribbean,Guatemala
+1429,GRC,1990,0.60354537,Europe & Central Asia,Greece
+1430,GRC,1991,0.50020397,Europe & Central Asia,Greece
+1431,GRC,1992,0.4344471,Europe & Central Asia,Greece
+1432,GRC,1993,0.4990448,Europe & Central Asia,Greece
+1433,GRC,1994,0.47515377,Europe & Central Asia,Greece
+1434,GRC,1995,0.46470955,Europe & Central Asia,Greece
+1435,GRC,1996,0.45659116,Europe & Central Asia,Greece
+1436,GNB,1990,0.41563556,Sub-Saharan Africa,Guinea-Bissau
+1437,GNB,1991,0.6127378,Sub-Saharan Africa,Guinea-Bissau
+1438,GNB,1994,0.50474286,Sub-Saharan Africa,Guinea-Bissau
+1439,GNB,1995,0.5327995,Sub-Saharan Africa,Guinea-Bissau
+1440,GNB,1996,0.57981855,Sub-Saharan Africa,Guinea-Bissau
+1441,GNB,1997,0.6046497,Sub-Saharan Africa,Guinea-Bissau
+1442,GNB,1998,0.5894609,Sub-Saharan Africa,Guinea-Bissau
+1443,GNB,1999,0.7338408,Sub-Saharan Africa,Guinea-Bissau
+1444,GNB,2003,0.4797822,Sub-Saharan Africa,Guinea-Bissau
+1445,GNB,2004,0.54737496,Sub-Saharan Africa,Guinea-Bissau
+1446,GNB,2005,0.5632599,Sub-Saharan Africa,Guinea-Bissau
+1447,GNB,2006,0.46392554,Sub-Saharan Africa,Guinea-Bissau
+1448,GNB,2007,0.4415583,Sub-Saharan Africa,Guinea-Bissau
+1449,GNB,2011,0.5569818,Sub-Saharan Africa,Guinea-Bissau
+1450,GNB,2012,0.43817773,Sub-Saharan Africa,Guinea-Bissau
+1451,GNB,2013,0.43817773,Sub-Saharan Africa,Guinea-Bissau
+1452,GNB,2014,0.42593536,Sub-Saharan Africa,Guinea-Bissau
+1453,GNB,2015,0.72086537,Sub-Saharan Africa,Guinea-Bissau
+1454,GNB,2019,0.5309858,Sub-Saharan Africa,Guinea-Bissau
+1455,GNB,2020,0.5245109,Sub-Saharan Africa,Guinea-Bissau
+1456,GMB,1990,0.60580057,Sub-Saharan Africa,"Gambia, The"
+1457,GMB,1991,0.49109295,Sub-Saharan Africa,"Gambia, The"
+1458,GMB,1992,0.5450407,Sub-Saharan Africa,"Gambia, The"
+1459,GMB,1993,0.48188922,Sub-Saharan Africa,"Gambia, The"
+1460,GMB,1994,0.6230098,Sub-Saharan Africa,"Gambia, The"
+1461,GMB,1995,0.5823603,Sub-Saharan Africa,"Gambia, The"
+1462,GMB,1996,0.58072233,Sub-Saharan Africa,"Gambia, The"
+1463,GMB,1997,0.5157564,Sub-Saharan Africa,"Gambia, The"
+1464,GMB,1998,0.6330001,Sub-Saharan Africa,"Gambia, The"
+1465,GMB,1999,0.60867155,Sub-Saharan Africa,"Gambia, The"
+1466,GMB,2004,0.59645545,Sub-Saharan Africa,"Gambia, The"
+1467,GMB,2005,0.5548149,Sub-Saharan Africa,"Gambia, The"
+1468,GMB,2006,0.56674445,Sub-Saharan Africa,"Gambia, The"
+1469,GMB,2007,0.5421291,Sub-Saharan Africa,"Gambia, The"
+1470,GMB,2011,0.617173,Sub-Saharan Africa,"Gambia, The"
+1471,GMB,2016,0.6051878,Sub-Saharan Africa,"Gambia, The"
+1472,GIN,1990,0.5534822,Sub-Saharan Africa,Guinea
+1473,GIN,1991,0.33899948,Sub-Saharan Africa,Guinea
+1474,GIN,1995,0.50395,Sub-Saharan Africa,Guinea
+1475,GIN,1996,0.53555155,Sub-Saharan Africa,Guinea
+1476,GIN,1997,0.5221075,Sub-Saharan Africa,Guinea
+1477,GIN,1998,0.4897283,Sub-Saharan Africa,Guinea
+1478,GIN,1999,0.48534703,Sub-Saharan Africa,Guinea
+1479,GIN,2003,0.4957629,Sub-Saharan Africa,Guinea
+1480,GIN,2008,0.5814969,Sub-Saharan Africa,Guinea
+1481,GIN,2013,0.49040702,Sub-Saharan Africa,Guinea
+1482,GIN,2014,0.517339,Sub-Saharan Africa,Guinea
+1483,GIN,2019,0.5306421,Sub-Saharan Africa,Guinea
+1484,GIN,2020,0.5317227,Sub-Saharan Africa,Guinea
+1485,GHA,1990,0.6170063,Sub-Saharan Africa,Ghana
+1486,GHA,1991,0.6423011,Sub-Saharan Africa,Ghana
+1487,GHA,1992,0.5479663,Sub-Saharan Africa,Ghana
+1488,GHA,1993,0.62421316,Sub-Saharan Africa,Ghana
+1489,GHA,1994,0.6209009,Sub-Saharan Africa,Ghana
+1490,GHA,1995,0.4158752,Sub-Saharan Africa,Ghana
+1491,GHA,1999,0.5623515,Sub-Saharan Africa,Ghana
+1492,GHA,2000,0.5900858,Sub-Saharan Africa,Ghana
+1493,GHA,2001,0.6360162,Sub-Saharan Africa,Ghana
+1494,GHA,2002,0.46673086,Sub-Saharan Africa,Ghana
+1495,GHA,2006,0.57995456,Sub-Saharan Africa,Ghana
+1496,GHA,2007,0.5877688,Sub-Saharan Africa,Ghana
+1497,GHA,2008,0.7052222,Sub-Saharan Africa,Ghana
+1498,GHA,2009,0.5317547,Sub-Saharan Africa,Ghana
+1499,GHA,2017,0.5530623,Sub-Saharan Africa,Ghana
+1500,GHA,2018,0.54246694,Sub-Saharan Africa,Ghana
+1501,GHA,2019,0.64537036,Sub-Saharan Africa,Ghana
+1502,GHA,2020,0.5039549,Sub-Saharan Africa,Ghana
+1503,GEO,1990,0.5802601,Europe & Central Asia,Georgia
+1504,GEO,1991,0.5776614,Europe & Central Asia,Georgia
+1505,GEO,1992,0.6057353,Europe & Central Asia,Georgia
+1506,GEO,1993,0.48786315,Europe & Central Asia,Georgia
+1507,GEO,1994,0.43908352,Europe & Central Asia,Georgia
+1508,GEO,1995,0.4652245,Europe & Central Asia,Georgia
+1509,GEO,1996,0.5095664,Europe & Central Asia,Georgia
+1510,GBR,1990,0.2193064,Europe & Central Asia,United Kingdom
+1511,GAB,1990,0.27247873,Sub-Saharan Africa,Gabon
+1512,GAB,1991,0.3926962,Sub-Saharan Africa,Gabon
+1513,GAB,1992,0.40702903,Sub-Saharan Africa,Gabon
+1514,GAB,1993,0.32478693,Sub-Saharan Africa,Gabon
+1515,GAB,1994,0.41989815,Sub-Saharan Africa,Gabon
+1516,GAB,1995,0.2883649,Sub-Saharan Africa,Gabon
+1517,GAB,1996,0.29758957,Sub-Saharan Africa,Gabon
+1518,GAB,1997,0.26682374,Sub-Saharan Africa,Gabon
+1519,GAB,1998,0.32310024,Sub-Saharan Africa,Gabon
+1520,GAB,1999,0.260444,Sub-Saharan Africa,Gabon
+1521,GAB,2000,0.27191192,Sub-Saharan Africa,Gabon
+1522,GAB,2001,0.274446,Sub-Saharan Africa,Gabon
+1523,GAB,2002,0.3814822,Sub-Saharan Africa,Gabon
+1524,GAB,2003,0.2963538,Sub-Saharan Africa,Gabon
+1525,GAB,2004,0.38609233,Sub-Saharan Africa,Gabon
+1526,GAB,2005,0.4395269,Sub-Saharan Africa,Gabon
+1527,GAB,2006,0.3496272,Sub-Saharan Africa,Gabon
+1528,GAB,2007,0.34326822,Sub-Saharan Africa,Gabon
+1529,GAB,2008,0.27791762,Sub-Saharan Africa,Gabon
+1530,GAB,2009,0.32873175,Sub-Saharan Africa,Gabon
+1531,GAB,2010,0.26097107,Sub-Saharan Africa,Gabon
+1532,GAB,2011,0.38950428,Sub-Saharan Africa,Gabon
+1533,GAB,2012,0.28739837,Sub-Saharan Africa,Gabon
+1534,GAB,2013,0.30076638,Sub-Saharan Africa,Gabon
+1535,GAB,2014,0.35714352,Sub-Saharan Africa,Gabon
+1536,GAB,2018,0.35471267,Sub-Saharan Africa,Gabon
+1537,GAB,2019,0.41814527,Sub-Saharan Africa,Gabon
+1538,GAB,2020,0.52829534,Sub-Saharan Africa,Gabon
+1539,FRA,1990,0.27329424,Europe & Central Asia,France
+1540,FRA,1991,0.21439181,Europe & Central Asia,France
+1541,FRA,1992,0.20327322,Europe & Central Asia,France
+1542,FJI,1990,0.3757322,East Asia & Pacific,Fiji
+1543,FJI,1991,0.3961599,East Asia & Pacific,Fiji
+1544,FJI,1992,0.26353672,East Asia & Pacific,Fiji
+1545,FJI,1993,0.31485736,East Asia & Pacific,Fiji
+1546,FJI,1994,0.3050158,East Asia & Pacific,Fiji
+1547,FJI,1995,0.33916602,East Asia & Pacific,Fiji
+1548,FJI,1996,0.37238947,East Asia & Pacific,Fiji
+1549,FJI,1997,0.3040762,East Asia & Pacific,Fiji
+1550,FJI,1998,0.25820535,East Asia & Pacific,Fiji
+1551,FJI,1999,0.35624912,East Asia & Pacific,Fiji
+1552,FJI,2000,0.26853922,East Asia & Pacific,Fiji
+1553,FJI,2001,0.24097966,East Asia & Pacific,Fiji
+1554,FJI,2002,0.2431652,East Asia & Pacific,Fiji
+1555,FJI,2003,0.28813776,East Asia & Pacific,Fiji
+1556,FJI,2004,0.2658284,East Asia & Pacific,Fiji
+1557,FJI,2009,0.24446096,East Asia & Pacific,Fiji
+1558,FJI,2014,0.22292437,East Asia & Pacific,Fiji
+1559,FJI,2015,0.30528393,East Asia & Pacific,Fiji
+1560,FJI,2020,0.22440876,East Asia & Pacific,Fiji
+1561,FIN,1990,0.3281833,Europe & Central Asia,Finland
+1562,FIN,1991,0.13673992,Europe & Central Asia,Finland
+1563,FIN,1996,0.15295888,Europe & Central Asia,Finland
+1564,ETH,1990,0.71407634,Sub-Saharan Africa,Ethiopia
+1565,ETH,1991,0.55591667,Sub-Saharan Africa,Ethiopia
+1566,ETH,1992,0.5662806,Sub-Saharan Africa,Ethiopia
+1567,ETH,1993,0.73239434,Sub-Saharan Africa,Ethiopia
+1568,ETH,1994,0.5349855,Sub-Saharan Africa,Ethiopia
+1569,ETH,1995,0.7026663,Sub-Saharan Africa,Ethiopia
+1570,ETH,2000,0.59456694,Sub-Saharan Africa,Ethiopia
+1571,ETH,2005,0.46625674,Sub-Saharan Africa,Ethiopia
+1572,ETH,2006,0.5386769,Sub-Saharan Africa,Ethiopia
+1573,ETH,2011,0.508342,Sub-Saharan Africa,Ethiopia
+1574,ETH,2016,0.4382348,Sub-Saharan Africa,Ethiopia
+1575,ETH,2017,0.41538644,Sub-Saharan Africa,Ethiopia
+1576,ETH,2018,0.46854666,Sub-Saharan Africa,Ethiopia
+1577,ETH,2019,0.5329396,Sub-Saharan Africa,Ethiopia
+1578,ETH,2020,0.52317244,Sub-Saharan Africa,Ethiopia
+1579,EST,1990,0.6466823,Europe & Central Asia,Estonia
+1580,EST,1991,0.6373187,Europe & Central Asia,Estonia
+1581,EST,1992,0.50141126,Europe & Central Asia,Estonia
+1582,EST,1993,0.7414419,Europe & Central Asia,Estonia
+1583,ESP,1990,0.37736797,Europe & Central Asia,Spain
+1584,EGY,1990,0.2840126,"Middle East, North Africa, Afghanistan & Pakistan","Egypt, Arab Rep."
+1585,EGY,1991,0.31441006,"Middle East, North Africa, Afghanistan & Pakistan","Egypt, Arab Rep."
+1586,EGY,2000,0.2870943,"Middle East, North Africa, Afghanistan & Pakistan","Egypt, Arab Rep."
+1587,EGY,2020,0.2993239,"Middle East, North Africa, Afghanistan & Pakistan","Egypt, Arab Rep."
+1588,ECU,1990,0.59127647,Latin America & Caribbean,Ecuador
+1589,ECU,1991,0.6177737,Latin America & Caribbean,Ecuador
+1590,ECU,1992,0.62991416,Latin America & Caribbean,Ecuador
+1591,ECU,1993,0.6600413,Latin America & Caribbean,Ecuador
+1592,ECU,1994,0.8056114,Latin America & Caribbean,Ecuador
+1593,DZA,1990,0.33785182,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1594,DZA,1991,0.27446032,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1595,DZA,1992,0.25924176,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1596,DZA,1993,0.32550344,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1597,DZA,1994,0.26550946,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1598,DZA,1995,0.33555287,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1599,DZA,1996,0.31192058,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1600,DZA,1997,0.20969452,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1601,DZA,1998,0.24333572,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1602,DZA,1999,0.24001099,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1603,DZA,2000,0.30242336,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1604,DZA,2001,0.29698047,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1605,DZA,2002,0.22309458,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1606,DZA,2003,0.24912395,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1607,DZA,2004,0.29644006,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1608,DZA,2005,0.34669647,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1609,DZA,2006,0.3490296,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1610,DZA,2007,0.40090862,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1611,DZA,2008,0.32751822,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1612,DZA,2012,0.31129256,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1613,DZA,2013,0.32324994,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1614,DZA,2014,0.2751327,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1615,DZA,2015,0.37799838,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1616,DZA,2016,0.2490299,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1617,DZA,2017,0.3218193,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1618,DZA,2018,0.35865012,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1619,DZA,2019,0.39628536,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1620,DZA,2020,0.37751335,"Middle East, North Africa, Afghanistan & Pakistan",Algeria
+1621,DOM,1990,0.5265463,Latin America & Caribbean,Dominican Republic
+1622,DOM,1991,0.6061037,Latin America & Caribbean,Dominican Republic
+1623,DOM,1992,0.74351573,Latin America & Caribbean,Dominican Republic
+1624,DNK,1990,0.24346747,Europe & Central Asia,Denmark
+1625,DNK,1991,0.2318378,Europe & Central Asia,Denmark
+1626,DNK,1992,0.23347123,Europe & Central Asia,Denmark
+1627,DNK,1996,0.23364373,Europe & Central Asia,Denmark
+1628,DEU,1990,0.28239554,Europe & Central Asia,Germany
+1629,DEU,1991,0.25733456,Europe & Central Asia,Germany
+1630,CZE,1990,0.58758867,Europe & Central Asia,Czechia
+1631,CZE,1991,0.6417075,Europe & Central Asia,Czechia
+1632,CZE,1992,0.6110571,Europe & Central Asia,Czechia
+1633,CZE,1997,0.5660958,Europe & Central Asia,Czechia
+1634,CZE,1998,0.5588186,Europe & Central Asia,Czechia
+1635,CYP,1990,0.6962491,Europe & Central Asia,Cyprus
+1636,CYP,1991,0.65770304,Europe & Central Asia,Cyprus
+1637,CYP,1992,0.6586984,Europe & Central Asia,Cyprus
+1638,CYP,1993,0.62768763,Europe & Central Asia,Cyprus
+1639,CYP,1994,0.6253865,Europe & Central Asia,Cyprus
+1640,CYP,1995,0.642538,Europe & Central Asia,Cyprus
+1641,CYP,1996,0.46741238,Europe & Central Asia,Cyprus
+1642,CYP,1997,0.54668987,Europe & Central Asia,Cyprus
+1643,CYP,1998,0.42923754,Europe & Central Asia,Cyprus
+1644,CYP,1999,0.5658595,Europe & Central Asia,Cyprus
+1645,CYP,2000,0.55757433,Europe & Central Asia,Cyprus
+1646,CYP,2001,0.5260026,Europe & Central Asia,Cyprus
+1647,CYP,2002,0.41961595,Europe & Central Asia,Cyprus
+1648,CYP,2003,0.40901706,Europe & Central Asia,Cyprus
+1649,CYP,2004,0.14919853,Europe & Central Asia,Cyprus
+1650,CRI,1990,0.6091592,Latin America & Caribbean,Costa Rica
+1651,CPV,1990,0.58800983,Sub-Saharan Africa,Cabo Verde
+1652,CPV,1991,0.6839686,Sub-Saharan Africa,Cabo Verde
+1653,CPV,1992,0.6632817,Sub-Saharan Africa,Cabo Verde
+1654,CPV,1993,0.5693707,Sub-Saharan Africa,Cabo Verde
+1655,CPV,1994,0.55332214,Sub-Saharan Africa,Cabo Verde
+1656,CPV,1995,0.6632817,Sub-Saharan Africa,Cabo Verde
+1657,CPV,1996,0.5433634,Sub-Saharan Africa,Cabo Verde
+1658,CPV,1997,0.61236346,Sub-Saharan Africa,Cabo Verde
+1659,CPV,1998,0.5548774,Sub-Saharan Africa,Cabo Verde
+1660,CPV,1999,0.48603013,Sub-Saharan Africa,Cabo Verde
+1661,CPV,2000,0.5462714,Sub-Saharan Africa,Cabo Verde
+1662,CPV,2001,0.4821089,Sub-Saharan Africa,Cabo Verde
+1663,CPV,2002,0.47829574,Sub-Saharan Africa,Cabo Verde
+1664,CPV,2003,0.5473472,Sub-Saharan Africa,Cabo Verde
+1665,CPV,2008,0.5802307,Sub-Saharan Africa,Cabo Verde
+1666,CPV,2009,0.566278,Sub-Saharan Africa,Cabo Verde
+1667,CPV,2010,0.51504004,Sub-Saharan Africa,Cabo Verde
+1668,CPV,2011,0.5248249,Sub-Saharan Africa,Cabo Verde
+1669,CPV,2012,0.45541576,Sub-Saharan Africa,Cabo Verde
+1670,CPV,2016,0.3423203,Sub-Saharan Africa,Cabo Verde
+1671,CPV,2017,0.3826488,Sub-Saharan Africa,Cabo Verde
+1672,CPV,2018,0.45628813,Sub-Saharan Africa,Cabo Verde
+1673,CPV,2019,0.44708082,Sub-Saharan Africa,Cabo Verde
+1674,CPV,2020,0.5023824,Sub-Saharan Africa,Cabo Verde
+1675,COM,1990,0.61623806,Sub-Saharan Africa,Comoros
+1676,COM,1991,0.6246302,Sub-Saharan Africa,Comoros
+1677,COM,1992,0.5902171,Sub-Saharan Africa,Comoros
+1678,COM,1993,0.61623806,Sub-Saharan Africa,Comoros
+1679,COM,1994,0.61606616,Sub-Saharan Africa,Comoros
+1680,COM,1995,0.6226165,Sub-Saharan Africa,Comoros
+1681,COM,1996,0.5908524,Sub-Saharan Africa,Comoros
+1682,COM,1997,0.5967451,Sub-Saharan Africa,Comoros
+1683,COM,1998,0.5908524,Sub-Saharan Africa,Comoros
+1684,COM,1999,0.5842955,Sub-Saharan Africa,Comoros
+1685,COM,2000,0.5320944,Sub-Saharan Africa,Comoros
+1686,COM,2001,0.5433693,Sub-Saharan Africa,Comoros
+1687,COM,2002,0.48591584,Sub-Saharan Africa,Comoros
+1688,COM,2003,0.5022882,Sub-Saharan Africa,Comoros
+1689,COM,2004,0.5320944,Sub-Saharan Africa,Comoros
+1690,COM,2005,0.53050303,Sub-Saharan Africa,Comoros
+1691,COM,2006,0.5889196,Sub-Saharan Africa,Comoros
+1692,COM,2007,0.5753197,Sub-Saharan Africa,Comoros
+1693,COM,2008,0.52422225,Sub-Saharan Africa,Comoros
+1694,COM,2009,0.6204881,Sub-Saharan Africa,Comoros
+1695,COM,2010,0.51106405,Sub-Saharan Africa,Comoros
+1696,COM,2011,0.8215558,Sub-Saharan Africa,Comoros
+1697,COM,2015,0.48894066,Sub-Saharan Africa,Comoros
+1698,COM,2016,0.54482806,Sub-Saharan Africa,Comoros
+1699,COL,1990,0.6120807,Latin America & Caribbean,Colombia
+1700,COL,1991,0.5455501,Latin America & Caribbean,Colombia
+1701,COG,1990,0.38879982,Sub-Saharan Africa,"Congo, Rep."
+1702,COG,1991,0.3780343,Sub-Saharan Africa,"Congo, Rep."
+1703,COG,1992,0.4139771,Sub-Saharan Africa,"Congo, Rep."
+1704,COG,1993,0.3771199,Sub-Saharan Africa,"Congo, Rep."
+1705,COG,1994,0.4417767,Sub-Saharan Africa,"Congo, Rep."
+1706,COG,1995,0.414366,Sub-Saharan Africa,"Congo, Rep."
+1707,COG,1996,0.38183722,Sub-Saharan Africa,"Congo, Rep."
+1708,COG,1997,0.347608,Sub-Saharan Africa,"Congo, Rep."
+1709,COG,1998,0.3918714,Sub-Saharan Africa,"Congo, Rep."
+1710,COG,1999,0.40232947,Sub-Saharan Africa,"Congo, Rep."
+1711,COG,2000,0.3037577,Sub-Saharan Africa,"Congo, Rep."
+1712,COG,2001,0.30555257,Sub-Saharan Africa,"Congo, Rep."
+1713,COG,2002,0.4132846,Sub-Saharan Africa,"Congo, Rep."
+1714,COG,2003,0.42386866,Sub-Saharan Africa,"Congo, Rep."
+1715,COG,2004,0.40436348,Sub-Saharan Africa,"Congo, Rep."
+1716,COG,2005,0.44225407,Sub-Saharan Africa,"Congo, Rep."
+1717,COG,2006,0.5422046,Sub-Saharan Africa,"Congo, Rep."
+1718,COG,2007,0.33553883,Sub-Saharan Africa,"Congo, Rep."
+1719,COG,2012,0.41367942,Sub-Saharan Africa,"Congo, Rep."
+1720,COG,2013,0.39114764,Sub-Saharan Africa,"Congo, Rep."
+1721,COG,2014,0.39785203,Sub-Saharan Africa,"Congo, Rep."
+1722,COG,2015,0.38377437,Sub-Saharan Africa,"Congo, Rep."
+1723,COG,2016,0.35501656,Sub-Saharan Africa,"Congo, Rep."
+1724,COG,2017,0.3080737,Sub-Saharan Africa,"Congo, Rep."
+1725,COG,2018,0.3818316,Sub-Saharan Africa,"Congo, Rep."
+1726,COG,2019,0.4147652,Sub-Saharan Africa,"Congo, Rep."
+1727,COG,2020,0.47486958,Sub-Saharan Africa,"Congo, Rep."
+1728,COD,1990,0.5160296,Sub-Saharan Africa,"Congo, Dem. Rep."
+1729,COD,1991,0.48594505,Sub-Saharan Africa,"Congo, Dem. Rep."
+1730,COD,1992,0.47659197,Sub-Saharan Africa,"Congo, Dem. Rep."
+1731,COD,1993,0.501873,Sub-Saharan Africa,"Congo, Dem. Rep."
+1732,COD,1994,0.45716676,Sub-Saharan Africa,"Congo, Dem. Rep."
+1733,COD,1995,0.4760621,Sub-Saharan Africa,"Congo, Dem. Rep."
+1734,COD,1996,0.45370853,Sub-Saharan Africa,"Congo, Dem. Rep."
+1735,COD,1997,0.49427605,Sub-Saharan Africa,"Congo, Dem. Rep."
+1736,COD,1998,0.4760621,Sub-Saharan Africa,"Congo, Dem. Rep."
+1737,COD,1999,0.4760621,Sub-Saharan Africa,"Congo, Dem. Rep."
+1738,COD,2000,0.47729433,Sub-Saharan Africa,"Congo, Dem. Rep."
+1739,COD,2001,0.51209366,Sub-Saharan Africa,"Congo, Dem. Rep."
+1740,COD,2002,0.5172835,Sub-Saharan Africa,"Congo, Dem. Rep."
+1741,COD,2003,0.43681076,Sub-Saharan Africa,"Congo, Dem. Rep."
+1742,COD,2004,0.4794231,Sub-Saharan Africa,"Congo, Dem. Rep."
+1743,COD,2005,0.5412718,Sub-Saharan Africa,"Congo, Dem. Rep."
+1744,COD,2006,0.5229981,Sub-Saharan Africa,"Congo, Dem. Rep."
+1745,COD,2007,0.5153439,Sub-Saharan Africa,"Congo, Dem. Rep."
+1746,COD,2008,0.62053823,Sub-Saharan Africa,"Congo, Dem. Rep."
+1747,COD,2009,0.33723477,Sub-Saharan Africa,"Congo, Dem. Rep."
+1748,COD,2013,0.5052933,Sub-Saharan Africa,"Congo, Dem. Rep."
+1749,COD,2014,0.48687264,Sub-Saharan Africa,"Congo, Dem. Rep."
+1750,COD,2015,0.62245196,Sub-Saharan Africa,"Congo, Dem. Rep."
+1751,COD,2016,0.5252128,Sub-Saharan Africa,"Congo, Dem. Rep."
+1752,COD,2017,0.30718303,Sub-Saharan Africa,"Congo, Dem. Rep."
+1753,CMR,1990,0.4731713,Sub-Saharan Africa,Cameroon
+1754,CMR,1991,0.5047532,Sub-Saharan Africa,Cameroon
+1755,CMR,1992,0.5531014,Sub-Saharan Africa,Cameroon
+1756,CMR,1993,0.5548797,Sub-Saharan Africa,Cameroon
+1757,CMR,1994,0.5581477,Sub-Saharan Africa,Cameroon
+1758,CMR,1995,0.5420466,Sub-Saharan Africa,Cameroon
+1759,CMR,1996,0.5284351,Sub-Saharan Africa,Cameroon
+1760,CMR,1997,0.53408194,Sub-Saharan Africa,Cameroon
+1761,CMR,2002,0.4725937,Sub-Saharan Africa,Cameroon
+1762,CMR,2003,0.5211147,Sub-Saharan Africa,Cameroon
+1763,CMR,2008,0.5296854,Sub-Saharan Africa,Cameroon
+1764,CMR,2009,0.5304329,Sub-Saharan Africa,Cameroon
+1765,CMR,2010,0.4519091,Sub-Saharan Africa,Cameroon
+1766,CMR,2011,0.24742912,Sub-Saharan Africa,Cameroon
+1767,CMR,2015,0.40434146,Sub-Saharan Africa,Cameroon
+1768,CMR,2016,0.41013452,Sub-Saharan Africa,Cameroon
+1769,CMR,2017,0.4045651,Sub-Saharan Africa,Cameroon
+1770,CMR,2018,0.57381684,Sub-Saharan Africa,Cameroon
+1771,CMR,2019,0.52989817,Sub-Saharan Africa,Cameroon
+1772,CMR,2020,0.51208496,Sub-Saharan Africa,Cameroon
+1773,CIV,1990,0.4710199,Sub-Saharan Africa,Côte d’Ivoire
+1774,CIV,1991,0.51767224,Sub-Saharan Africa,Côte d’Ivoire
+1775,CIV,1992,0.38081643,Sub-Saharan Africa,Côte d’Ivoire
+1776,CIV,2003,0.49032858,Sub-Saharan Africa,Côte d’Ivoire
+1777,CIV,2004,0.44407114,Sub-Saharan Africa,Côte d’Ivoire
+1778,CIV,2009,0.4553894,Sub-Saharan Africa,Côte d’Ivoire
+1779,CIV,2010,0.49755305,Sub-Saharan Africa,Côte d’Ivoire
+1780,CIV,2011,0.533152,Sub-Saharan Africa,Côte d’Ivoire
+1781,CIV,2012,0.42625552,Sub-Saharan Africa,Côte d’Ivoire
+1782,CIV,2019,0.64537036,Sub-Saharan Africa,Côte d’Ivoire
+1783,CIV,2020,0.5358751,Sub-Saharan Africa,Côte d’Ivoire
+1784,CHN,1990,0.13528661,East Asia & Pacific,China
+1785,CHL,1990,0.5473961,Latin America & Caribbean,Chile
+1786,CHE,1990,0.40010935,Europe & Central Asia,Switzerland
+1787,CHE,1991,0.33711582,Europe & Central Asia,Switzerland
+1788,CHE,1992,0.30306286,Europe & Central Asia,Switzerland
+1789,CHE,1993,0.26765332,Europe & Central Asia,Switzerland
+1790,CHE,1994,0.26765332,Europe & Central Asia,Switzerland
+1791,CHE,1995,0.26765332,Europe & Central Asia,Switzerland
+1792,CHE,1996,0.2792969,Europe & Central Asia,Switzerland
+1793,CHE,1997,0.23006518,Europe & Central Asia,Switzerland
+1794,CAN,1990,0.10784861,North America,Canada
+1795,CAF,1990,0.39549473,Sub-Saharan Africa,Central African Republic
+1796,CAF,1991,0.51440054,Sub-Saharan Africa,Central African Republic
+1797,CAF,1992,0.38782847,Sub-Saharan Africa,Central African Republic
+1798,CAF,1993,0.41310886,Sub-Saharan Africa,Central African Republic
+1799,CAF,1994,0.42212024,Sub-Saharan Africa,Central African Republic
+1800,CAF,1995,0.50228786,Sub-Saharan Africa,Central African Republic
+1801,CAF,1996,0.46284017,Sub-Saharan Africa,Central African Republic
+1802,CAF,1997,0.44245365,Sub-Saharan Africa,Central African Republic
+1803,CAF,1998,0.46377367,Sub-Saharan Africa,Central African Republic
+1804,CAF,1999,0.44498155,Sub-Saharan Africa,Central African Republic
+1805,CAF,2000,0.48856363,Sub-Saharan Africa,Central African Republic
+1806,CAF,2001,0.43943453,Sub-Saharan Africa,Central African Republic
+1807,CAF,2002,0.5101164,Sub-Saharan Africa,Central African Republic
+1808,CAF,2003,0.519633,Sub-Saharan Africa,Central African Republic
+1809,CAF,2004,0.3754287,Sub-Saharan Africa,Central African Republic
+1810,CAF,2005,0.49069926,Sub-Saharan Africa,Central African Republic
+1811,CAF,2009,0.49061868,Sub-Saharan Africa,Central African Republic
+1812,CAF,2010,0.47156915,Sub-Saharan Africa,Central African Republic
+1813,CAF,2011,0.36921793,Sub-Saharan Africa,Central African Republic
+1814,CAF,2012,0.40953684,Sub-Saharan Africa,Central African Republic
+1815,CAF,2013,0.54766023,Sub-Saharan Africa,Central African Republic
+1816,CAF,2014,0.49174535,Sub-Saharan Africa,Central African Republic
+1817,CAF,2015,0.43065137,Sub-Saharan Africa,Central African Republic
+1818,CAF,2016,0.40285867,Sub-Saharan Africa,Central African Republic
+1819,CAF,2017,0.4279819,Sub-Saharan Africa,Central African Republic
+1820,CAF,2018,0.4908048,Sub-Saharan Africa,Central African Republic
+1821,CAF,2019,0.4788297,Sub-Saharan Africa,Central African Republic
+1822,CAF,2020,0.5192909,Sub-Saharan Africa,Central African Republic
+1823,BWA,1990,0.47480223,Sub-Saharan Africa,Botswana
+1824,BWA,1991,0.35576263,Sub-Saharan Africa,Botswana
+1825,BWA,1992,0.24748777,Sub-Saharan Africa,Botswana
+1826,BWA,1993,0.26351947,Sub-Saharan Africa,Botswana
+1827,BWA,1994,0.36126667,Sub-Saharan Africa,Botswana
+1828,BWA,1995,0.33162418,Sub-Saharan Africa,Botswana
+1829,BWA,1996,0.40127227,Sub-Saharan Africa,Botswana
+1830,BWA,1997,0.35395488,Sub-Saharan Africa,Botswana
+1831,BWA,1998,0.38898146,Sub-Saharan Africa,Botswana
+1832,BWA,1999,0.15368386,Sub-Saharan Africa,Botswana
+1833,BWA,2003,0.38657117,Sub-Saharan Africa,Botswana
+1834,BWA,2004,0.3872217,Sub-Saharan Africa,Botswana
+1835,BWA,2005,0.29477936,Sub-Saharan Africa,Botswana
+1836,BWA,2006,0.38110983,Sub-Saharan Africa,Botswana
+1837,BWA,2010,0.3290416,Sub-Saharan Africa,Botswana
+1838,BWA,2011,0.41116363,Sub-Saharan Africa,Botswana
+1839,BWA,2016,0.41290313,Sub-Saharan Africa,Botswana
+1840,BWA,2017,0.34479734,Sub-Saharan Africa,Botswana
+1841,BWA,2018,0.46317068,Sub-Saharan Africa,Botswana
+1842,BWA,2019,0.44977164,Sub-Saharan Africa,Botswana
+1843,BWA,2020,0.49337444,Sub-Saharan Africa,Botswana
+1844,BTN,1990,0.4102066,South Asia,Bhutan
+1845,BTN,1991,0.35626975,South Asia,Bhutan
+1846,BTN,1992,0.39964876,South Asia,Bhutan
+1847,BTN,1993,0.3459229,South Asia,Bhutan
+1848,BTN,1994,0.3423609,South Asia,Bhutan
+1849,BTN,1995,0.33402458,South Asia,Bhutan
+1850,BTN,1996,0.37148347,South Asia,Bhutan
+1851,BTN,1997,0.46033818,South Asia,Bhutan
+1852,BTN,1998,0.3928846,South Asia,Bhutan
+1853,BTN,1999,0.3955516,South Asia,Bhutan
+1854,BTN,2000,0.26198524,South Asia,Bhutan
+1855,BTN,2001,0.26835585,South Asia,Bhutan
+1856,BTN,2002,0.26159546,South Asia,Bhutan
+1857,BTN,2003,0.4290042,South Asia,Bhutan
+1858,BTN,2008,0.32429776,South Asia,Bhutan
+1859,BTN,2013,0.35695216,South Asia,Bhutan
+1860,BTN,2018,0.28867078,South Asia,Bhutan
+1861,BTN,2019,0.276807,South Asia,Bhutan
+1862,BTN,2020,0.3082171,South Asia,Bhutan
+1863,BRB,1990,0.35774162,Latin America & Caribbean,Barbados
+1864,BRB,1991,0.33452687,Latin America & Caribbean,Barbados
+1865,BRB,1992,0.3215614,Latin America & Caribbean,Barbados
+1866,BRB,1993,0.32229468,Latin America & Caribbean,Barbados
+1867,BRB,1994,0.44021732,Latin America & Caribbean,Barbados
+1868,BRB,1995,0.39473045,Latin America & Caribbean,Barbados
+1869,BRB,1996,0.39513648,Latin America & Caribbean,Barbados
+1870,BRB,1997,0.5140007,Latin America & Caribbean,Barbados
+1871,BRB,1998,0.5562348,Latin America & Caribbean,Barbados
+1872,BRB,1999,0.5024678,Latin America & Caribbean,Barbados
+1873,BRB,2000,0.5666295,Latin America & Caribbean,Barbados
+1874,BRB,2001,0.48145235,Latin America & Caribbean,Barbados
+1875,BRB,2002,0.5439442,Latin America & Caribbean,Barbados
+1876,BRB,2003,0.61452705,Latin America & Caribbean,Barbados
+1877,BRB,2004,0.6284902,Latin America & Caribbean,Barbados
+1878,BRB,2005,0.6372241,Latin America & Caribbean,Barbados
+1879,BRB,2006,0.58752584,Latin America & Caribbean,Barbados
+1880,BRB,2007,0.6372241,Latin America & Caribbean,Barbados
+1881,BRB,2008,0.66018265,Latin America & Caribbean,Barbados
+1882,BRB,2009,0.6283644,Latin America & Caribbean,Barbados
+1883,BRB,2010,0.53713673,Latin America & Caribbean,Barbados
+1884,BRB,2011,0.4672127,Latin America & Caribbean,Barbados
+1885,BRB,2012,0.41377598,Latin America & Caribbean,Barbados
+1886,BRB,2013,0.3332226,Latin America & Caribbean,Barbados
+1887,BRB,2014,0.52267116,Latin America & Caribbean,Barbados
+1888,BRB,2015,0.6080979,Latin America & Caribbean,Barbados
+1889,BRB,2016,0.5139847,Latin America & Caribbean,Barbados
+1890,BRB,2017,0.55142576,Latin America & Caribbean,Barbados
+1891,BRB,2018,0.6035551,Latin America & Caribbean,Barbados
+1892,BRB,2019,0.54585665,Latin America & Caribbean,Barbados
+1893,BRB,2020,0.60213166,Latin America & Caribbean,Barbados
+1894,BRA,1990,0.41140568,Latin America & Caribbean,Brazil
+1895,BOL,1990,0.4945551,Latin America & Caribbean,Bolivia
+1896,BOL,1993,0.5812104,Latin America & Caribbean,Bolivia
+1897,BLZ,1990,0.40521747,Latin America & Caribbean,Belize
+1898,BLZ,1991,0.51988,Latin America & Caribbean,Belize
+1899,BLZ,1992,0.48244643,Latin America & Caribbean,Belize
+1900,BLZ,1993,0.43515646,Latin America & Caribbean,Belize
+1901,BLZ,2000,0.51622385,Latin America & Caribbean,Belize
+1902,BLZ,2001,0.56542206,Latin America & Caribbean,Belize
+1903,BLZ,2002,0.46042377,Latin America & Caribbean,Belize
+1904,BLZ,2003,0.44461,Latin America & Caribbean,Belize
+1905,BLZ,2004,0.46413156,Latin America & Caribbean,Belize
+1906,BLZ,2005,0.55220443,Latin America & Caribbean,Belize
+1907,BLZ,2006,0.43009183,Latin America & Caribbean,Belize
+1908,BLZ,2007,0.46148568,Latin America & Caribbean,Belize
+1909,BLZ,2008,0.47415113,Latin America & Caribbean,Belize
+1910,BLZ,2009,0.4275554,Latin America & Caribbean,Belize
+1911,BLZ,2010,0.4528657,Latin America & Caribbean,Belize
+1912,BLZ,2011,0.4528657,Latin America & Caribbean,Belize
+1913,BLZ,2012,0.4591702,Latin America & Caribbean,Belize
+1914,BLZ,2013,0.4591702,Latin America & Caribbean,Belize
+1915,BLZ,2014,0.46790674,Latin America & Caribbean,Belize
+1916,BLZ,2015,0.466264,Latin America & Caribbean,Belize
+1917,BLZ,2019,0.62047744,Latin America & Caribbean,Belize
+1918,BLZ,2020,0.55500084,Latin America & Caribbean,Belize
+1919,BLR,1990,0.5776576,Europe & Central Asia,Belarus
+1920,BLR,1991,0.5868632,Europe & Central Asia,Belarus
+1921,BLR,1992,0.5150441,Europe & Central Asia,Belarus
+1922,BLR,1993,0.6090577,Europe & Central Asia,Belarus
+1923,BIH,1990,0.3014918,Europe & Central Asia,Bosnia and Herzegovina
+1924,BIH,1991,0.2717277,Europe & Central Asia,Bosnia and Herzegovina
+1925,BIH,1992,0.301715,Europe & Central Asia,Bosnia and Herzegovina
+1926,BIH,1993,0.37080103,Europe & Central Asia,Bosnia and Herzegovina
+1927,BIH,1994,0.307648,Europe & Central Asia,Bosnia and Herzegovina
+1928,BIH,1995,0.34589466,Europe & Central Asia,Bosnia and Herzegovina
+1929,BIH,1996,0.34319577,Europe & Central Asia,Bosnia and Herzegovina
+1930,BIH,1997,0.33786336,Europe & Central Asia,Bosnia and Herzegovina
+1931,BIH,1998,0.3577427,Europe & Central Asia,Bosnia and Herzegovina
+1932,BIH,1999,0.4108919,Europe & Central Asia,Bosnia and Herzegovina
+1933,BIH,2000,0.4272616,Europe & Central Asia,Bosnia and Herzegovina
+1934,BIH,2001,0.41016704,Europe & Central Asia,Bosnia and Herzegovina
+1935,BIH,2016,0.29108572,Europe & Central Asia,Bosnia and Herzegovina
+1936,BIH,2017,0.2803778,Europe & Central Asia,Bosnia and Herzegovina
+1937,BIH,2018,0.3962855,Europe & Central Asia,Bosnia and Herzegovina
+1938,BIH,2019,0.47414944,Europe & Central Asia,Bosnia and Herzegovina
+1939,BIH,2020,0.5612106,Europe & Central Asia,Bosnia and Herzegovina
+1940,BGR,1990,0.52610093,Europe & Central Asia,Bulgaria
+1941,BGR,1991,0.34217358,Europe & Central Asia,Bulgaria
+1942,BGR,1992,0.6584332,Europe & Central Asia,Bulgaria
+1943,BGD,1990,0.24608049,South Asia,Bangladesh
+1944,BGD,1991,0.28488666,South Asia,Bangladesh
+1945,BGD,1996,0.18799381,South Asia,Bangladesh
+1946,BGD,2001,0.18559659,South Asia,Bangladesh
+1947,BGD,2006,0.21097149,South Asia,Bangladesh
+1948,BGD,2011,0.20669986,South Asia,Bangladesh
+1949,BGD,2012,0.26120833,South Asia,Bangladesh
+1950,BGD,2017,0.19149394,South Asia,Bangladesh
+1951,BGD,2018,0.21126568,South Asia,Bangladesh
+1952,BGD,2019,0.21039954,South Asia,Bangladesh
+1953,BGD,2020,0.21535438,South Asia,Bangladesh
+1954,BFA,1990,0.5211497,Sub-Saharan Africa,Burkina Faso
+1955,BFA,1991,0.595741,Sub-Saharan Africa,Burkina Faso
+1956,BFA,1992,0.5123237,Sub-Saharan Africa,Burkina Faso
+1957,BFA,1993,0.4590278,Sub-Saharan Africa,Burkina Faso
+1958,BFA,1994,0.31038505,Sub-Saharan Africa,Burkina Faso
+1959,BFA,1999,0.62413573,Sub-Saharan Africa,Burkina Faso
+1960,BFA,2004,0.50762254,Sub-Saharan Africa,Burkina Faso
+1961,BFA,2005,0.49701205,Sub-Saharan Africa,Burkina Faso
+1962,BFA,2010,0.5166654,Sub-Saharan Africa,Burkina Faso
+1963,BFA,2019,0.607693,Sub-Saharan Africa,Burkina Faso
+1964,BFA,2020,0.5918052,Sub-Saharan Africa,Burkina Faso
+1965,BEN,1990,0.6062578,Sub-Saharan Africa,Benin
+1966,BEN,1991,0.64959824,Sub-Saharan Africa,Benin
+1967,BEN,1992,0.6470231,Sub-Saharan Africa,Benin
+1968,BEN,1993,0.60719,Sub-Saharan Africa,Benin
+1969,BEN,1994,0.6250357,Sub-Saharan Africa,Benin
+1970,BEN,1995,0.6750683,Sub-Saharan Africa,Benin
+1971,BEN,1996,0.66967607,Sub-Saharan Africa,Benin
+1972,BEN,1997,0.67235196,Sub-Saharan Africa,Benin
+1973,BEN,1998,0.6790161,Sub-Saharan Africa,Benin
+1974,BEN,1999,0.6155558,Sub-Saharan Africa,Benin
+1975,BEN,2000,0.6684477,Sub-Saharan Africa,Benin
+1976,BEN,2001,0.66279113,Sub-Saharan Africa,Benin
+1977,BEN,2002,0.6722306,Sub-Saharan Africa,Benin
+1978,BEN,2003,0.6790161,Sub-Saharan Africa,Benin
+1979,BEN,2004,0.640481,Sub-Saharan Africa,Benin
+1980,BEN,2005,0.6823306,Sub-Saharan Africa,Benin
+1981,BEN,2006,0.6637023,Sub-Saharan Africa,Benin
+1982,BEN,2007,0.59834474,Sub-Saharan Africa,Benin
+1983,BEN,2008,0.59745204,Sub-Saharan Africa,Benin
+1984,BEN,2019,0.583988,Sub-Saharan Africa,Benin
+1985,BEN,2020,0.5890501,Sub-Saharan Africa,Benin
+1986,BEL,1990,0.35495907,Europe & Central Asia,Belgium
+1987,BEL,1991,0.29661453,Europe & Central Asia,Belgium
+1988,BEL,1992,0.25495413,Europe & Central Asia,Belgium
+1989,BDI,1990,0.67387027,Sub-Saharan Africa,Burundi
+1990,BDI,1991,0.62285805,Sub-Saharan Africa,Burundi
+1991,BDI,1992,0.6660896,Sub-Saharan Africa,Burundi
+1992,BDI,1993,0.5948825,Sub-Saharan Africa,Burundi
+1993,BDI,1994,0.65355575,Sub-Saharan Africa,Burundi
+1994,BDI,1999,0.64565223,Sub-Saharan Africa,Burundi
+1995,BDI,2000,0.67813987,Sub-Saharan Africa,Burundi
+1996,BDI,2001,0.63810474,Sub-Saharan Africa,Burundi
+1997,BDI,2002,0.64779234,Sub-Saharan Africa,Burundi
+1998,BDI,2003,0.81995136,Sub-Saharan Africa,Burundi
+1999,BDI,2007,0.6635441,Sub-Saharan Africa,Burundi
+2000,BDI,2008,0.6657771,Sub-Saharan Africa,Burundi
+2001,BDI,2009,0.6380169,Sub-Saharan Africa,Burundi
+2002,BDI,2010,0.5658578,Sub-Saharan Africa,Burundi
+2003,BDI,2014,0.668114,Sub-Saharan Africa,Burundi
+2004,BDI,2015,0.7436824,Sub-Saharan Africa,Burundi
+2005,BDI,2016,0.6590326,Sub-Saharan Africa,Burundi
+2006,BDI,2017,0.7159383,Sub-Saharan Africa,Burundi
+2007,AZE,1990,0.59900326,Europe & Central Asia,Azerbaijan
+2008,AZE,1991,0.64278066,Europe & Central Asia,Azerbaijan
+2009,AZE,1992,0.5519202,Europe & Central Asia,Azerbaijan
+2010,AZE,1993,0.58613783,Europe & Central Asia,Azerbaijan
+2011,AZE,1994,0.60459936,Europe & Central Asia,Azerbaijan
+2012,AZE,1995,0.7055156,Europe & Central Asia,Azerbaijan
+2013,AZE,1996,0.59990233,Europe & Central Asia,Azerbaijan
+2014,AZE,1997,0.5842746,Europe & Central Asia,Azerbaijan
+2015,AZE,2006,0.66708934,Europe & Central Asia,Azerbaijan
+2016,AZE,2007,0.73390734,Europe & Central Asia,Azerbaijan
+2017,AZE,2008,0.56802976,Europe & Central Asia,Azerbaijan
+2018,AZE,2009,0.5015091,Europe & Central Asia,Azerbaijan
+2019,AZE,2010,0.61430055,Europe & Central Asia,Azerbaijan
+2020,AZE,2011,0.5090057,Europe & Central Asia,Azerbaijan
+2021,AZE,2012,0.614961,Europe & Central Asia,Azerbaijan
+2022,AZE,2013,0.6122855,Europe & Central Asia,Azerbaijan
+2023,AZE,2014,0.59695035,Europe & Central Asia,Azerbaijan
+2024,AZE,2015,0.5914623,Europe & Central Asia,Azerbaijan
+2025,AZE,2016,0.6297187,Europe & Central Asia,Azerbaijan
+2026,AZE,2017,0.6021106,Europe & Central Asia,Azerbaijan
+2027,AZE,2018,0.67199624,Europe & Central Asia,Azerbaijan
+2028,AZE,2019,0.6548159,Europe & Central Asia,Azerbaijan
+2029,AZE,2020,0.6309919,Europe & Central Asia,Azerbaijan
+2030,AUT,1990,0.40514427,Europe & Central Asia,Austria
+2031,AUT,1991,0.39864028,Europe & Central Asia,Austria
+2032,AUT,1992,0.26522186,Europe & Central Asia,Austria
+2033,AUT,1993,0.21693619,Europe & Central Asia,Austria
+2034,AUT,1994,0.122785315,Europe & Central Asia,Austria
+2035,AUS,1990,0.22552155,East Asia & Pacific,Australia
+2036,AUS,1991,0.19317277,East Asia & Pacific,Australia
+2037,AUS,1992,0.2500183,East Asia & Pacific,Australia
+2038,AUS,1993,0.24090181,East Asia & Pacific,Australia
+2039,AUS,1994,0.19890809,East Asia & Pacific,Australia
+2040,AUS,1995,0.21943709,East Asia & Pacific,Australia
+2041,AUS,1996,0.1894196,East Asia & Pacific,Australia
+2042,AUS,1997,0.27789974,East Asia & Pacific,Australia
+2043,ARM,1990,0.5909185,Europe & Central Asia,Armenia
+2044,ARM,1991,0.6231455,Europe & Central Asia,Armenia
+2045,ARM,1992,0.49483085,Europe & Central Asia,Armenia
+2046,ARM,1993,0.6453657,Europe & Central Asia,Armenia
+2047,ARM,1994,0.5952813,Europe & Central Asia,Armenia
+2048,ARM,1995,0.6265564,Europe & Central Asia,Armenia
+2049,ARM,1996,0.7803858,Europe & Central Asia,Armenia
+2050,ARG,1990,0.5728633,Latin America & Caribbean,Argentina
+2051,ARG,1991,0.63203925,Latin America & Caribbean,Argentina
+2052,ARE,1990,0.206805,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2053,ARE,1991,0.10101609,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2054,ARE,1992,0.1068778,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2055,ARE,1993,0.10839957,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2056,ARE,1994,0.10932019,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2057,ARE,1995,0.10932019,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2058,ARE,1996,0.10932019,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2059,ARE,1997,0.1610571,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2060,ARE,1998,0.1123881,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2061,ARE,1999,0.15756637,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2062,ARE,2000,0.22831272,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2063,ARE,2001,0.15348507,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2064,ARE,2002,0.16487968,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2065,ARE,2003,0.21871749,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2066,ARE,2004,0.22444212,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2067,ARE,2005,0.18861717,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2068,ARE,2006,0.2756929,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2069,ARE,2007,0.14051583,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2070,ARE,2008,0.17528993,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2071,ARE,2009,0.10473724,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2072,ARE,2010,0.1047596,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2073,ARE,2011,0.10678861,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2074,ARE,2012,0.14552885,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2075,ARE,2013,0.121970445,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2076,ARE,2014,0.11676168,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2077,ARE,2019,0.21081664,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2078,ARE,2020,0.11387212,"Middle East, North Africa, Afghanistan & Pakistan",United Arab Emirates
+2079,ALB,1990,0.621348,Europe & Central Asia,Albania
+2080,ALB,1991,0.34682372,Europe & Central Asia,Albania
+2081,ALB,1992,0.5481463,Europe & Central Asia,Albania
+2082,ALB,1993,0.4751385,Europe & Central Asia,Albania
+2083,ALB,1994,0.5897574,Europe & Central Asia,Albania
+2084,ALB,1995,0.673477,Europe & Central Asia,Albania
+2085,ALB,1996,0.7205105,Europe & Central Asia,Albania
+2086,ALB,1997,0.2711221,Europe & Central Asia,Albania
+2087,ALB,1998,0.43941772,Europe & Central Asia,Albania
+2088,AGO,1990,0.46010315,Sub-Saharan Africa,Angola
+2089,AGO,1991,0.49331316,Sub-Saharan Africa,Angola
+2090,AGO,1992,0.5691048,Sub-Saharan Africa,Angola
+2091,AGO,1993,0.5459492,Sub-Saharan Africa,Angola
+2092,AGO,1994,0.438312,Sub-Saharan Africa,Angola
+2093,AGO,1995,0.40426788,Sub-Saharan Africa,Angola
+2094,AGO,1996,0.50308543,Sub-Saharan Africa,Angola
+2095,AGO,1997,0.49050575,Sub-Saharan Africa,Angola
+2096,AGO,1998,0.43157917,Sub-Saharan Africa,Angola
+2097,AGO,1999,0.5198431,Sub-Saharan Africa,Angola
+2098,AGO,2000,0.3874632,Sub-Saharan Africa,Angola
+2099,AGO,2001,0.40137494,Sub-Saharan Africa,Angola
+2100,AGO,2002,0.6098473,Sub-Saharan Africa,Angola
+2101,AGO,2003,0.56903243,Sub-Saharan Africa,Angola
+2102,AGO,2004,0.4791582,Sub-Saharan Africa,Angola
+2103,AGO,2005,0.61961263,Sub-Saharan Africa,Angola
+2104,AGO,2009,0.481336,Sub-Saharan Africa,Angola
+2105,AGO,2010,0.45059732,Sub-Saharan Africa,Angola
+2106,AGO,2011,0.481336,Sub-Saharan Africa,Angola
+2107,AGO,2012,0.4460324,Sub-Saharan Africa,Angola
+2108,AGO,2013,0.49323618,Sub-Saharan Africa,Angola
+2109,AGO,2014,0.42315176,Sub-Saharan Africa,Angola
+2110,AGO,2015,0.3374672,Sub-Saharan Africa,Angola
+2111,AGO,2019,0.4614905,Sub-Saharan Africa,Angola
+2112,AGO,2020,0.58709157,Sub-Saharan Africa,Angola
