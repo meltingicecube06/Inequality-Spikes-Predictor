@@ -4,7 +4,7 @@ import numpy as np
 import utils
 from pathlib import Path
 
-current_dir = Path(__file__).resolve()
+current_dir = Path.cwd()
 
 IntroductoryParagraph1 = '''The Gini index is a World Bank measure of economic inequality within a country, on a scale from 0 (perfect equality) to 100 (one person holds everything). It is calculated from the area between the line of perfect equality and the Lorenz curve, divided by the total area under the equality line (see below for reference). This project combines the Gini index with 14 other World Bank indicators to estimate the risk that a country’s Gini will spike over the next three years. '''
 
