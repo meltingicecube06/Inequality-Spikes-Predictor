@@ -2,6 +2,9 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 import utils
+from pathlib import Path
+
+current_dir = Path(__file__).resolve()
 
 IntroductoryParagraph1 = '''The Gini index is a World Bank measure of economic inequality within a country, on a scale from 0 (perfect equality) to 100 (one person holds everything). It is calculated from the area between the line of perfect equality and the Lorenz curve, divided by the total area under the equality line (see below for reference). This project combines the Gini index with 14 other World Bank indicators to estimate the risk that a country’s Gini will spike over the next three years. '''
 
@@ -31,7 +34,7 @@ st.header('Introduction',
 
 st.write(IntroductoryParagraph1)
 
-st.image('./assets/GiniReferenceImage.png',
+st.image(current_dir / 'assets/GiniReferenceImage.png',
          caption='Gini Coefficient Calculation by researchgate (via WikiMedia Commons) / CC BY-SA 4.0',
          link='https://www.researchgate.net/figure/Lorenz-curve-The-Gini-index-is-calculated-as-the-ratio-of-the-area-between-the-perfect_fig1_341916065')
 
