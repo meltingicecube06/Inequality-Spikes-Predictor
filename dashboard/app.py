@@ -34,7 +34,7 @@ st.header('Introduction',
 
 st.write(IntroductoryParagraph1)
 
-st.image(current_dir / 'assets/GiniReferenceImage.png',
+st.image(current_dir / 'dashboard/assets/GiniReferenceImage.png',
          caption='Gini Coefficient Calculation by researchgate (via WikiMedia Commons) / CC BY-SA 4.0',
          link='https://www.researchgate.net/figure/Lorenz-curve-The-Gini-index-is-calculated-as-the-ratio-of-the-area-between-the-perfect_fig1_341916065')
 
