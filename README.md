@@ -4,7 +4,8 @@ A machine learning project that estimates which countries are at risk of a **spi
 
 **Live demo:** [add your Streamlit Community Cloud link]
 
-![Dashboard screenshot](assets/screenshot_map.png)
+![Dashboard screenshot](dashboard/assets/screenshot_map.png)
+![Dashboard screenshot](dashboard/assets/screenshot_deep_dive.png)
 <!-- Add a screenshot of the world map page. A second one of the country deep-dive page is a nice touch. -->
 
 ---
@@ -23,7 +24,7 @@ Test set: 2012 to 2020 (824 country-years). About 24% of test rows are spikes, s
 
 | Model | Precision | Recall | F1 | ROC AUC |
 |---|---|---|---|---|
-| Logistic regression (baseline) | 0.32 | 0.64 | 0.43 | [recomputed from probabilities] |
+| Logistic regression (baseline) | 0.32 | 0.64 | 0.43 | 0.67 |
 | XGBoost (tuned) | 0.32 | 0.55 | 0.41 | 0.64 |
 
 Both models reach about 1.3 times the random precision. XGBoost was tuned to maximise recall, and on these metrics it performs about the same as the baseline. The risk scores are **not calibrated probabilities**: the model weights spikes more heavily during training (`scale_pos_weight`), so scores run higher than the real spike rate. Use them to compare countries with each other, not as exact chances.
@@ -79,7 +80,7 @@ The model ranks Latin America & Caribbean and Sub-Saharan Africa highest, but ob
 ## Limitations
 
 - **Missing data.** Gini is recorded for only about 62% of country-years, and about 35% of those values are interpolated. Spike labels are built partly from interpolated values.
-- **Estimate rows in the dashboard.** The dashboard shows scores for country-years that have no label (2,113 rows). Of these, 1,880 (about 89%) have no recorded Gini. Those scores come from other indicators plus median-filled values and should be read as estimates, not forecasts. [Update this section if you add the status flag/filter.]
+- **Estimate rows in the dashboard.** The dashboard shows scores for country-years that have no label (2,113 rows). Of these, 1,880 (about 89%) have no recorded Gini. Those scores come from other indicators plus median-filled values and should be read as estimates, not forecasts. 
 - **Modest predictive power.** AUC of 0.64, with XGBoost roughly matching logistic regression.
 - **Scores are not probabilities** (see above).
 - **Evaluation caveats.** Hyperparameter tuning used cross-validation that is not time-ordered and optimised recall only. Labels look three years ahead, so the last training years overlap the test period. Each country's median fill uses all years, including the test period.
@@ -97,13 +98,14 @@ The model ranks Latin America & Caribbean and Sub-Saharan Africa highest, but ob
 ## Repository structure
 
 ```text
-[confirm against your repo]
-├── app.py                      # Streamlit home page
-├── pages/
-│   ├── 01_World_Map.py
-│   └── 02_Country_Deepdive.py
-├── utils.py                    # cached data loaders
-├── assets/                     # precomputed scores, SHAP values, data, images
+├──dashboard
+│    ├── app.py                      # Streamlit home page
+│    ├── pages/
+│    │   ├── 01_World_Map.py
+│    │   └── 02_Country_Deepdive.py
+│    ├── utils.py                    # cached data loaders
+│    ├── assets/                     # precomputed scores, SHAP values, data, images
+│
 ├── notebooks/
 │   ├── datasets.ipynb
 │   ├── cleaning2.ipynb
@@ -119,23 +121,23 @@ The model ranks Latin America & Caribbean and Sub-Saharan Africa highest, but ob
 ## Run it locally
 
 ```bash
-git clone [your repo URL]
-cd [repo folder]
+git clone https://github.com/meltingicecube06/Inequality-Spikes-Predictor.git
+cd InequalitySpikesWarningSys
 python -m venv venv
 # Windows: venv\Scripts\activate    macOS/Linux: source venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Developed with Python 3.11. The notebooks expect the data files in the working folder and use Windows-style paths in places, so adjust paths if you rerun them. [Note any other setup steps.]
+Developed with Python 3.11. The notebooks expect the data files in the working folder and use Windows-style paths in places, so adjust paths if you rerun them. 
 
 ## Data and credits
 
 - Indicators: World Bank World Development Indicators, accessed with the `wbdata` library.
 - Regions: World Bank country classification (`CLASS_2025_10_07.xlsx`).
-- Gini diagram: [credit and link, or replace with your own diagram].
+- Gini diagram: [Gini Coefficient Calculation by researchgate (via WikiMedia Commons) / CC BY-SA 4.0](https://www.researchgate.net/figure/Lorenz-curve-The-Gini-index-is-calculated-as-the-ratio-of-the-area-between-the-perfect_fig1_341916065).
 
 ## Author
 
 Arnav Rajesh Nair, University of Alberta (Computer Science, Economics minor).
-[LinkedIn link] | [email]
+[LinkedIn link](https://www.linkedin.com/in/arnavrajeshnair/) | [Email](arnavrajeshnair@gmail.com)
