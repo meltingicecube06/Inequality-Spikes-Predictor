@@ -2,7 +2,7 @@
 
 A machine learning project that estimates which countries are at risk of a **spike in income inequality** (measured by the Gini index) within the next three years, using World Bank indicators. Results are explored in an interactive Streamlit dashboard.
 
-**Live demo:** [add your Streamlit Community Cloud link]
+**Live demo:** https://inequality-spikes-predictor.streamlit.app
 
 ![Dashboard screenshot](dashboard/assets/screenshot_map.png)
 ![Dashboard screenshot](dashboard/assets/screenshot_deep_dive.png)
