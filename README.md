@@ -115,7 +115,8 @@ The model ranks Latin America & Caribbean and Sub-Saharan Africa highest, but ob
 │   ├── ModelTraining.ipynb
 │   └── ShapValues.ipynb
 ├── requirements.txt
-└── README.md
+├── README.md
+└── XandYDataframes                 # Dataframes used in training and assessment
 ```
 
 ## Run it locally
@@ -126,6 +127,7 @@ cd InequalitySpikesWarningSys
 python -m venv venv
 # Windows: venv\Scripts\activate    macOS/Linux: source venv/bin/activate
 pip install -r requirements.txt
+cd dashboard
 streamlit run app.py
 ```
 
@@ -140,4 +142,4 @@ Developed with Python 3.11. The notebooks expect the data files in the working f
 ## Author
 
 Arnav Rajesh Nair, University of Alberta (Computer Science, Economics minor).
-[LinkedIn link](https://www.linkedin.com/in/arnavrajeshnair/) | [Email](arnavrajeshnair@gmail.com)
+[LinkedIn link](https://www.linkedin.com/in/arnavrajeshnair/) | arnavrajeshnair@gmail.com
