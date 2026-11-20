@@ -1,6 +1,6 @@
 import pandas as pd 
 import streamlit as st
-from dashboard import utils
+from utils import ImportPredictShapValues,ImportPredictShapData,ImportPredictShapValuesFeatureNames,ImportEmptyGiniSpikeDataframe,ImportIndicatorTitles,ImportRiskCSVScores,ImportMasterDataframe,ExtractTopFeatureNames,ImportPredictShapBaseValues
 import shap
 import numpy as np
 import matplotlib.pyplot as plt
@@ -11,16 +11,16 @@ st.title('Country-wise Deepdive')
 st.divider()
 
 if 'PredictShapValues' not in st.session_state:
-    TemporaryVariable = utils.ImportPredictShapValues()
+    TemporaryVariable = ImportPredictShapValues()
     st.session_state['PredictShapValues'] = pd.DataFrame(TemporaryVariable)
 #imported the predict shap values and put them inside of session state
 
 if 'EmptyGiniSpikeDataframe' not in st.session_state:
-    st.session_state['EmptyGiniSpikeDataframe'] = utils.ImportEmptyGiniSpikeDataframe()
+    st.session_state['EmptyGiniSpikeDataframe'] = ImportEmptyGiniSpikeDataframe()
 #imported the empty Gini spike dataframe
 
 if 'RiskCSVScores' not in st.session_state:
-    st.session_state['RiskCSVScores'] = utils.ImportRiskCSVScores()
+    st.session_state['RiskCSVScores'] = ImportRiskCSVScores()
 
 if 'CountriesList' not in st.session_state:
     CountriesAndNumberOfEntries = st.session_state['EmptyGiniSpikeDataframe']['country'].unique()
@@ -28,16 +28,16 @@ if 'CountriesList' not in st.session_state:
     st.session_state['CountriesList'] = list(CountriesAndNumberOfEntries)
 
 if 'PredictShapData' not in st.session_state:
-    st.session_state['PredictShapData'] = utils.ImportPredictShapData()
+    st.session_state['PredictShapData'] = ImportPredictShapData()
 
 if 'PredictShapBaseValues' not in st.session_state:
-    st.session_state['PredictShapBaseValues'] = utils.ImportPredictShapBaseValues()
+    st.session_state['PredictShapBaseValues'] = ImportPredictShapBaseValues()
 
 if 'PredictShapFeatureNames' not in st.session_state:
-    st.session_state['PredictShapFeatureNames'] = utils.ImportPredictShapValuesFeatureNames()
+    st.session_state['PredictShapFeatureNames'] = ImportPredictShapValuesFeatureNames()
 
 if 'IndicatorTitles' not in st.session_state:
-    st.session_state['IndicatorTitles'] = utils.ImportIndicatorTitles()
+    st.session_state['IndicatorTitles'] = ImportIndicatorTitles()
 
 
 UserInputCountry = st.selectbox(label='Pick a country to get more information about:',
@@ -88,7 +88,7 @@ shap.plots.waterfall(CountryShapValue, max_display=15, show=False)
 st.pyplot(fig, width='stretch')
 plt.close(fig)
 
-TopCountryShapFeatureNames = utils.ExtractTopFeatureNames(CountryShapValue,15)
+TopCountryShapFeatureNames = ExtractTopFeatureNames(CountryShapValue,15)
 TitlesInShapFigure = {}
 
 for i in TopCountryShapFeatureNames:
@@ -101,7 +101,7 @@ st.table(data = TitlesInShapFigure,
 
 ###From this point all of this is for the Country Py plot
 if 'MasterDataframe' not in st.session_state:
-    st.session_state['MasterDataframe'] = utils.ImportMasterDataframe()
+    st.session_state['MasterDataframe'] = ImportMasterDataframe()
 
 CountryIso3code = CountryInfo['countryiso3code'] #got the country iso3codeinfo
 #need to locate the country inside of masterdataframe and get its gini values
